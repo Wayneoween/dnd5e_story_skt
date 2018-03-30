@@ -62,7 +62,7 @@ changefreq: weekly
       <!-- Main -->
       <div id="main">
         <!-- Featured Post -->
-        {% for post in site.posts limit: 1 %}
+        {% for post in site.tags.Frontpage limit: 1 %}
         <article class="post featured">
           <header class="major">
             <span class="date">{{ post.date | date_to_string }}</span>
@@ -78,7 +78,7 @@ changefreq: weekly
 
         <!-- Posts -->
         <section class="posts">
-          {% for post in site.posts offset: 1 limit: site.paginate %}
+          {% for post in site.tags.Frontpage offset: 1 limit: site.paginate %}
           <article>
             <header>
               <span class="date">{{ post.date | date_to_string }}</span>
