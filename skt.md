@@ -5,6 +5,6 @@ description: Every great website starts with a great homepage. The homepage tell
 includefile: skt
 sitemap:
     priority: 1.0
-    lastmod: 2018-04-30
-    changefreq: monthly
+    lastmod: 2018-03-01
+    changefreq: weekly
 ---
