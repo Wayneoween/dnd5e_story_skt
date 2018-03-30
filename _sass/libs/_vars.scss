@@ -9,11 +9,6 @@
 		transition:			0.2s
 	);
 
-// Background Image.
-	$bgimage: (
-		background-repeat:	repeat-x,
-	);
-
 // Size.
 	$size: (
 		element-height:		3rem,
@@ -55,7 +50,7 @@
 		),
 
 		invert: (
-			bg:				#1e252d,
+			bg:				#000,
 			bg-alt:			#1e252d,
 			fg:				#ffffff,
 			fg-bold:		#ffffff,
