@@ -68,7 +68,7 @@ changefreq: weekly
             {% include de_date.html %}
             <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
           </header>
-          <a href="{{ post.url | absolute_url }}" class="image featured"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+          <a href="{{ post.url | absolute_url }}" class="image featured"><img data-src="{{ post.image | absolute_url }}" alt="" class="lazyload" /></a>
           <p>{{ post.excerpt }}</p>
           <ul class="actions">
             <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
