@@ -81,22 +81,7 @@ changefreq: weekly
 
         <!-- Posts -->
         <section class="posts">
-          {% for post in site.tags.Frontpage offset: 1 limit: site.paginate %}
-          <article>
-            <header>
-              <span class="date">{{ post.date | date_to_string }}</span>
-              <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-            </header>
-            <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-            <p>{{ post.excerpt }}</p>
-            <ul class="actions">
-              <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
-              {% if post.homebrewerylink %}
-              <li><a href="{{ post.homebrewerylink | absolute_url }}" class="button">D&D Style</a></li>
-              {% endif %}
-            </ul>
-          </article>
-          {% endfor %}
+          {% include frontpage_posts.html %}
         </section>
 
         <!-- Footer -->

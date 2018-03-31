@@ -37,11 +37,11 @@ Die letzten Tage sollten die beiden Menschen bei ihren Familien in Ruhe und unbe
 ## Session Zero
 
 > Unter DMs wurde in der Vergangenheit schon oft über das Konzept einer Session Zero gesprochen, aber unser nächstes Abenteuer profitiert mehr als alle anderen davon.
-> </br>
-> </br>
+> <br />
+> <br />
 > Eine Session Zero ist eine Session, deren Fokus auf dem Erstellen von Charakteren, dem Erstellen, Teilen und Verweben von Hintergründen, dem Festlegen von grundlegenden Regeln für die Kampagne und dem gemeinsamen Vertrautmachen mit dem Thema des Abenteuers liegt.
 
-</br>
+<br />
 Einen kleinen Teil unserer Session Zero bereits losgetreten, wie ihr sicher gemerkt habt, als ich auf euch zu kam um die Charaktere für dieses Abenteuer zu erstellen. Ein weiterer Teil wird auch in den nächsten Zeilen schriftlich und vorab festhalten.
 
 ### Die Welt und das Setting
@@ -64,26 +64,26 @@ Wie bisher gibt es Fraktionen die ihre eigenen Ziele auf ihre eigenen Arten verf
 
 Den Wappen zugehörig von links nach rechts werden kurz die einzelnen Fraktionen und ihre Pläne genannnt.
 
-- **Emerald Enclave**</br>
+- **Emerald Enclave**<br />
 Eine weitreichende Gruppe, die sich gegen Bedrohungen der Natur stellt und anderen hilft, die vielen Gefahren der Wildnis zu überleben. Die Mitglieder der Emerald Enclave sind weit verstreut und operieren in der Regel isoliert.
 
-- **Zentharim**</br>
+- **Zentharim**<br />
 Die Zhentarim streben danach, allgegenwärtig und unausweichlich, reicher und mächtiger und vor allem unantastbar zu werden. Jeder sollte Angst haben, ihnen zu begegnen.
 
-- **Order of the Gauntlet**</br>
+- **Order of the Gauntlet**<br />
 Viele Paladine und Kleriker von Tyr, Helm, Torm und Hoar haben sich dieser neuen Organisation angeschlossen und sehen sie als eine Möglichkeit, ein Gegengewicht gegen das Übel in der Welt herzustellen.
 
-- **Lord's Alliance**</br>
+- **Lord's Alliance**<br />
 Eine Koalition von Herrschern aus Städten in ganz Faerûn, die sich einig sind, dass Solidarität nötig ist, um das Böse in Schach zu halten. Die Herrscher von Waterdeep, Silverymoon, Neverwinter und anderen freien Städten in der Region dominieren die Allianz.
 
-- **Harpers**</br>
+- **Harpers**<br />
 Eine alte Organisation, die in den letzten 300 Jahren mehrmals aufgebaut, zerschmettert und wiederaufgebaut worden ist. Ihre Langlebigkeit und Widerstandsfähigkeit ist vor allem auf ihre Dezentralität sowie ihre Geheimniskrämerei und die Beinahe-Autonomie vieler ihrer Mitglieder zurückzuführen.
 
 Wie in der Umfrage schon herausgekommen ist, sind eure Charaktere zu verschieden, um alle derselben Fraktion angehören zu können.
 
 Das macht nichts! Ausser die Geschichte interessanter, und für mich etwas mehr Arbeit. Aber nichts, was wir nicht zusammen hinbekommen würden. Bitte notiert euch eure Kontaktpersonen, sie könnten eines Tages das Leben eures Charakters retten.
-</br>
-</br>
+<br />
+<br />
 Kontaktpersonen der jeweiligen Fraktion stehen in der folgenden Tabelle:
 
 | Fraktion               | Kontakt |
@@ -130,8 +130,8 @@ Charaktere haben nicht ohne Grund eine Gesinnung. Die Ausrichtung und persönlic
 ### Spieler-Typen
 
 Menschen spielen D&D bzw. Pen and Paper Rollenspiele aus verschiedensten Gründen und haben Spaß an verschiedenen Facetten des Spiels. Es gibt keinen **richtigen** oder **falschen** Weg, um mit D&D Spaß zu haben, deswegen möchte ich hier einfach einige Spieler-Typen aufzeigen, die grade die Typen aufzeigen sollen, denen man selbst _nicht_ ähnlich ist.
-</br>
-</br>
+<br />
+<br />
 Das Wichtigste an unserem Spiel ist, dass **alle** Spaß haben und dieser Abschnitt soll verdeutlichen, dass alle Spieler-Typen willkommen sind! Jede Stimme wird gehört.
 
 ##### Der Techniker
@@ -157,7 +157,7 @@ Sollte es dennoch zu Unzufriedenheit kommen, bitte ich darum, über die Ursachen
 
 Wenn jemand (grade der DM) Dinge anders machen und dadurch besser machen kann, immer bescheid sagen!
 
-</br>
+<br />
 
 Ansonsten gibt es von meiner Seite nurnoch eins:
 
