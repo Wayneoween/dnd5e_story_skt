@@ -1,11 +1,14 @@
 <footer id="footer">
-  <section>
+  <section class="split">
     {% assign postCounter = 0 %}
     {% for link in site.data.amazonlinks %}
-      {% if postCounter > 0 %}
-      <br />
+      {% if postCounter == 0 %}
+      <section class="alt">
+      {% else %}
+      <section>
       {% endif %}
-      <a href="{{ link.url }}" target='_blank'>{{ link.title }}</a>
+        <strong>{{ link.title }}</strong> (<a href="{{ link.url_de }}" target='_blank'>Deutsch</a>/<a href="{{ link.url_en }}" target='_blank'>Englisch</a>)
+      </section>
       {% assign postCounter = postCounter | plus: 1 %}
     {% endfor %}
   </section>
