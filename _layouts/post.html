@@ -35,7 +35,7 @@
               <span class="date">{{page.date | date_to_string}}</span>
               <h1>{{page.title}}</h1>
             </header>
-            <div class="image main"><img src="{{page.image}}" alt=""></div>
+            <!-- <div class="image main"><img src="{{page.image}}" alt=""></div> -->
             <p>{{content}}</p>
           </section>
 
@@ -63,15 +63,6 @@
           </script>
           <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
         </div><!-- /.comments-wrapper -->
-
-
-          <!-- Footer -->
-            <footer>
-              <ul class="actions">
-                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-              </ul>
-            </footer>
-          </div>
 
         <!-- Footer -->
         {% include foot.html %}

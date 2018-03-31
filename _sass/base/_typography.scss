@@ -30,7 +30,7 @@
 		font-family: _font(family);
 		font-weight: _font(weight);
 		font-size: 1rem;
-		line-height: 2.375;
+		line-height: 1.8;
 	}
 
 	a {
@@ -118,11 +118,16 @@
 	}
 
 	blockquote {
-		border-left: solid 4px;
+		border-left: solid 7px;
 		font-style: italic;
-		margin: 0 0 _size(element-margin) 0;
+		margin: 0 0 0 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+
+		> :last-child {
+			padding: 0 0 1rem 0;
+		}
 	}
+
 
 	code {
 		border-radius: _size(border-radius);
