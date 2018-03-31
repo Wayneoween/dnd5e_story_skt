@@ -32,9 +32,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-#disqus_shortname:   default
-
 # Social
 twitter:            Wayneoween
 instagram:          marius__schuller
