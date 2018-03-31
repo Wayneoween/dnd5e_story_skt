@@ -14,11 +14,11 @@
 
 	#wrapper {
 		background-color:		_palette(wrapper-bg);
-		background-image:		url('../../images/overlay.jpg'),	linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)),	url('../../images/bg.jpg');
-		background-size:		auto,								auto,														100% auto;
-		background-position:	center,								center,														top center;
-		background-repeat:		repeat,								no-repeat,													no-repeat;
-		background-attachment:	fixed,								fixed,														fixed;
+		background-image:		url('../../images/overlay.jpg');
+		background-size:		100% auto;
+		background-position:	center;
+		background-repeat:		no-repeat;
+		background-attachment:	fixed;
 
 		&.fade-in {
 			&:before {
