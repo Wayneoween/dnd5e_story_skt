@@ -72,6 +72,9 @@ changefreq: weekly
           <p>{{ post.excerpt }}</p>
           <ul class="actions">
             <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
+            {% if post.homebrewerylink %}
+            <li><a href="{{ post.homebrewerylink | absolute_url }}" class="button">D&D Style</a></li>
+            {% endif %}
           </ul>
         </article>
         {% endfor %}
