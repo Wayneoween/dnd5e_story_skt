@@ -29,16 +29,16 @@
 		}
 
 		> .post {
-			@include padding((_size(padding) * 4), (_size(padding) * 4));
+			@include padding((_size(padding) * 2), (_size(padding) * 4));
 
 			header {
 				&.major {
 					> .date {
-						margin-top: -2rem;
+						margin-top: -1rem;
 					}
 
 					> h1, h2 {
-						font-size: 4rem;
+						font-size: 3rem;
 						line-height: 1.1;
 						margin: 0 0 _size(element-margin) 0;
 					}
