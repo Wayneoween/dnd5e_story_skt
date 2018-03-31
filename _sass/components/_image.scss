@@ -12,7 +12,7 @@
 		display: inline-block;
 		position: relative;
 
-		div {
+		img {
 			border-radius: _size(border-radius);
 			display: block;
 		}
@@ -43,6 +43,22 @@
 			/* margin: (_size(element-margin) * 1.25) 0; */
 			max-width: 600px;
 			max-height: 400px;
+			display: inline-block;
+
+			&:first-child {
+				margin-top: 0;
+			}
+
+			img {
+				max-width: 100%;
+			}
+		}
+
+		&.featured {
+			/* display: block; */
+			/* margin: (_size(element-margin) * 1.25) 0; */
+			max-width: 1200px;
+			max-height: 800px;
 			display: inline-block;
 
 			&:first-child {
