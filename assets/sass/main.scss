@@ -7,6 +7,17 @@
 @import 'libs/_skel';
 @import 'font-awesome.min.css';
 
+/* Barbarian */
+@font-face {
+  font-family: 'Barbarian';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/assets/fonts/Barbarian.ttf'); /* IE9 Compat Modes */
+  src: local('Barbarian'),
+       url('/assets/fonts/Barbarian.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/assets/fonts/Barbarian.woff') format('woff'), /* Modern Browsers */
+}
+
 /* merriweather-300 - latin */
 @font-face {
   font-family: 'Merriweather';
