@@ -6,5 +6,6 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
+gem 'jekyll-timeago'
 
 gem 'nokogiri', '~> 1.8.1'
