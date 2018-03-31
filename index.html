@@ -65,7 +65,7 @@ changefreq: weekly
         {% for post in site.tags.Frontpage limit: 1 %}
         <article class="post featured">
           <header class="major">
-            <span class="date">{{ post.date | date_to_string }}</span>
+            <span class="date">{{ post.date | timeago }}</span>
             <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
           </header>
           <a href="{{ post.url | absolute_url }}" class="image featured"><img src="{{ post.image | absolute_url }}" alt="" /></a>

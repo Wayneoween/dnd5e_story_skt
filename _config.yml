@@ -48,12 +48,32 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-timeago
 
 paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
+
+jekyll_timeago:
+  depth: 2 # Level of detail
+  today: 'Heute'
+  yesterday: 'Gestern'
+  tomorrow: 'Morgen'
+  and: 'und'
+  suffix: ''
+  prefix: 'vor'
+  suffix_future: ''
+  prefix_future: 'in'
+  years: 'Jahren'
+  year: 'Jahr'
+  months: 'Monate'
+  month: 'Monat'
+  weeks: 'Wochen'
+  week: 'Woche'
+  days: 'Tagen'
+  day: 'Tag'
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
