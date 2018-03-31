@@ -4,7 +4,7 @@ date: 2018-03-14T20:00:00+01:00
 slug: "skt_s00e00_recap"
 image: "/images/skt/s01e00.jpg"
 homebrewerylink: "http://homebrewery.naturalcrit.com/share/SyXbvG3_f"
-tags: [ "Einladungen", "Storm King's Thunder", "SKT"]
+tags: [ "Einladungen", "Storm King's Thunder", "SKT", "Frontpage"]
 ---
 
 ## Es war einmal...
