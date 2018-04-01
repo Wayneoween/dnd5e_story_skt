@@ -58,7 +58,7 @@
 
 	p {
 		text-align: justify;
-		margin: 0 0 _size(element-margin) 0;
+		margin: (_size(element-margin) * 0.7) 0 (_size(element-margin) * 0.7) 0;
 	}
 
 	h1 {
@@ -154,10 +154,16 @@
 		border-left: solid 7px;
 		font-style: italic;
 		margin: 0 0 0 0;
-		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+		/* padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin); */
+		padding: 0 0 0 _size(element-margin);
+		background: linear-gradient(to right, rgba(96, 132, 52, 0.5) , white);
+
+		> p {
+			margin: 0 0 0 0;
+		}
 
 		> :last-child {
-			padding: 0 0 1rem 0;
+			padding: 0.5rem 0 0.5rem 0;
 		}
 	}
 
