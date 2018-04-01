@@ -102,13 +102,32 @@
 		margin: 0 0 (_size(element-margin) * 0.75) 0;
 	}
 
+	.post > h2 {
+		font-size: 1.75rem;
+		line-height: 1.3;
+		font-weight: 400;
+		margin: 1.5rem 0 (_size(element-margin) * 0.75) -2rem;
+	}
+
 	h3 {
 		font-size: 1.25rem;
+		font-weight: 400;
 		margin: 0 0 (_size(element-margin) * 0.75) 0;
+	}
+
+	.post > h3 {
+		font-size: 1.25rem;
+		font-weight: 400;
+		margin: 1.5rem 0 (_size(element-margin) * 0.75) -1.5rem;
 	}
 
 	h4 {
 		font-size: 1rem;
+	}
+
+	.post > h4 {
+		font-size: 1.1rem;
+		margin: 1.5rem 0 (_size(element-margin) * 0.75) -1rem;
 	}
 
 	h5 {
