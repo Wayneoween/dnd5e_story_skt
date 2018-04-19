@@ -6,4 +6,4 @@ image: "/images/charakter/togrim.jpg"
 tags: [ "Charakter"]
 ---
 
-### Barde, klein und laut
+### Barde, laut und taub

@@ -6,4 +6,4 @@ image: "/images/charakter/duke.jpg"
 tags: [ "Charakter"]
 ---
 
-### Kämpfer, ziemlich Reich
+### Kämpfer, stark und reich

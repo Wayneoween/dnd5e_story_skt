@@ -6,5 +6,4 @@ image: "/images/charakter/lilleni.jpg"
 tags: [ "Charakter"]
 ---
 
-
-### Waldläufer, klein und flink
+### Waldläufer, tierlieb und flink
