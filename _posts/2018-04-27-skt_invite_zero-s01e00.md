@@ -46,7 +46,7 @@ Er fing an die Kurzlebigkeit (und auch Leichtsinnigkeit) eines kleinen Goblin-St
 
 #### Quara
 
-Nachdem sie und _Merric_ das ganze Gold nur unter sicher aufteilen mussten, konnte sie eine signifikante Summe sichern. Das kam ihr auch sehr gelegen, denn ihr Plan war, ihre Heimat **Thundertree** wieder auf zu bauen und wieder zu beleben.
+Nachdem sie und _Merric_ das ganze Gold nur unter sicher aufteilen mussten, konnte sie sich eine signifikante Summe sichern. Das kam ihr auch sehr gelegen, denn ihr Plan war, ihre Heimat **Thundertree** wieder auf zu bauen und wieder zu beleben.
 
 In **Neverwinter** heuerte sie bei der Baumeistergilde einige starke und schlaue Helfer an und machte sich auf die Suche nach ehemaligen Einwohnern von **Thundertree** und deren Nachkommen um zu versuchen, ihre Unterstützung bei ihrem Vorhaben zu erwirken.
 
