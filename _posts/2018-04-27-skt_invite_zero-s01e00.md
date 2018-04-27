@@ -35,7 +35,7 @@ In seiner großzügigen Art lehnte der Nobelmann seinen monetären Anteil der Be
 
 #### Gloin
 
-Auch der Kleriker sagte sich von der finanziellen Beute los, behielt aber die fein verzierte Axt, die für Unwissende rostig wirkte. Er hatte in den letzten Tagen viel gesehen. Vieles, dass er in seinem Leben vor dem Klerikerdasin nie wieder sehen wollte. Tod und Verderben musste er als Soldat in den Kriegen der Silbermärsche zu viel ertragen.
+Auch der Kleriker sagte sich von der finanziellen Beute los, behielt aber die fein verzierte Axt, die für Unwissende rostig wirkte. Er hatte in den letzten Tagen viel gesehen. Vieles, dass er in seinem Leben vor dem Klerikerdasein nie wieder sehen wollte. Tod und Verderben musste er als Soldat in den Kriegen der Silbermärsche zu viel ertragen.
 
 Seine Absicht war einige Ruhige Tage in den Ländereien des Nordens zu verbringen, aber selbst das war ihm von seinen Göttern nicht erlaubt, wie es schien. Um weiteren Schlächtereien zu entgehen zog er nach **Sundabar**, legte Schwert und Schild ab und wurde zu einem Priester von Dumathoin, in dem dort ansässigen Tempel, auf dass er den Rest seiner Tage kein Blut mehr sehen müsse.
 
