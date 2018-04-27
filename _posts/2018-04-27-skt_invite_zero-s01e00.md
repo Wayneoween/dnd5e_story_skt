@@ -59,7 +59,7 @@ An ihrem 83sten Geburtstag fand eine große Feier statt, und es war nicht ganz k
 > Unter DMs wurde in der Vergangenheit schon oft über das Konzept einer Session Zero gesprochen, aber unser nächstes Abenteuer profitiert mehr als alle anderen davon.
 > Eine Session Zero ist eine Session, deren Fokus auf dem Erstellen von Charakteren, dem Erstellen, Teilen und Verweben von Hintergründen, dem Festlegen von grundlegenden Regeln für die Kampagne und dem gemeinsamen Vertrautmachen mit dem Thema des Abenteuers liegt.
 
-Einen kleinen Teil unserer Session Zero bereits losgetreten, wie ihr sicher gemerkt habt, als ich auf euch zu kam um die Charaktere für dieses Abenteuer zu erstellen. Ein weiterer Teil wird auch in den nächsten Zeilen schriftlich und vorab festhalten.
+Einen großen Teil unserer Session Zero bereits losgetreten, wie ihr sicher gemerkt habt, als ich auf euch zu kam um die Charaktere für dieses Abenteuer zu erstellen. Ein weiterer Teil wird auch in den nächsten Zeilen schriftlich und vorab festhalten.
 
 ### Die Welt und das Setting
 
