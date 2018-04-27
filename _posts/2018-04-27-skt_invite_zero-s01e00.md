@@ -41,8 +41,8 @@ Seine Absicht war einige Ruhige Tage in den Ländereien des Nordens zu verbringe
 
 #### Merric
 
-Der Halbling hatte nach den wenigen Tagen bereits so viel mehr Gold erbeutet, als er sich in seinem Leben überhaupt vorstellen konnte. Mit seinem Anteil machte er sich auf seinen eigenen Weg und lebte wie ein König. Er besuchte viele Orte, setzte sich aber kürzlich südlich von Loudwater zur Ruhe.
-Er fing an die Kurzlebigkeit (und auch Leichtsinnigkeit) eines kleinen Goblin-Stammes zunutze und wurde ihr "König". Nach einer Weile machten Gerüchte in Loudwater die Runde, die von einem Goblinzüchtenden, verrückten Halbling im Southwood berichteten. Ich bin mir sicher, dass es sich lediglich um Gerüchte handelte. _Merric_ war zu gewitzt um wirklich verrückt zu werden.
+Der Halbling hatte nach den wenigen Tagen bereits so viel mehr Gold erbeutet, als er sich in seinem Leben überhaupt vorstellen konnte. Mit seinem Anteil machte er sich auf seinen eigenen Weg und lebte wie ein König. Er besuchte viele Orte, setzte sich aber kürzlich südlich von **Loudwater** zur Ruhe.
+Er fing an die Kurzlebigkeit (und auch Leichtsinnigkeit) eines kleinen Goblin-Stammes zunutze und wurde ihr "König". Nach einer Weile machten Gerüchte in der Stadt die Runde, die von einem Goblinzüchtenden, verrückten Halbling im Southwood berichteten. Ich bin mir sicher, dass es sich lediglich um Gerüchte handelte. _Merric_ war zu gewitzt um wirklich verrückt zu werden.
 
 #### Quara
 
