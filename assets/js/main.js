@@ -80,10 +80,10 @@
         || skel.vars.mobile)    // Mobile devices
         off();
 
-      // Enable everywhere else.
+      // Enable everywhere else. NOT :-P
       else {
 
-        skel.on('!large -large', on);
+        skel.on('!large -large', off);
         skel.on('+large', off);
 
       }
