@@ -33,11 +33,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Social
-twitter:            Wayneoween
-instagram:          marius__schuller
-github:             Wayneoween
-
 # personal
 email:              msc+dndaux@cle.ar.it
 slack:              "Wir laden dich sehr gerne ein, melde dich einfach!"
