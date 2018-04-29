@@ -37,8 +37,8 @@ sass:
 email:              msc+dndaux@cle.ar.it
 slack:              "Wir laden dich sehr gerne ein, melde dich einfach!"
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
