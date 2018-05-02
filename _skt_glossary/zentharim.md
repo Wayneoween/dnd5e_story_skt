@@ -8,5 +8,5 @@
 > zu begegnen.
 
 Bekannte Mitglieder:
-- {% include glossary_link.html title="Kalla Darkhope" %}
+- {% include glossary_link.html title="Kella Darkhope" %}
 - {% include glossary_link.html title="Xolkin" %}
