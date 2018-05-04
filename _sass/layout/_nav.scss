@@ -26,6 +26,8 @@
 		z-index: 2;
 
 		ul {
+			@include vendor('justify-content', 'center');
+
 			&.links {
 				@include vendor('display', 'flex');
 				@include vendor('flex-grow', '1');
