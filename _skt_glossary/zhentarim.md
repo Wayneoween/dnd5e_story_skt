@@ -1,6 +1,12 @@
 ---
 ---
 
+<img
+  src='/images/factions/zhentarim.png'
+  style='width:20%;
+         float:right;
+         margin-bottom: 1rem;'/>
+
 #### Fraktion
 
 > Die Zhentarim streben danach, allgegenwärtig und unausweichlich, reicher und
