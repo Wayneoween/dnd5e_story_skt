@@ -14,9 +14,7 @@
 				{% if post.author.name %}
 					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
 				{% endif %}        
-				{% if post.excerpt %}
-					<description>{{ post.excerpt | xml_escape }}</description>
-				{% else %}
+				{% if post.content %}
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
