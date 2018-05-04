@@ -7,3 +7,10 @@ tags: [ "Charakter"]
 ---
 
 ### Barde, laut und taub
+
+<img
+  src='/images/charakter/togrim.jpg'
+  style='width:40%;
+         float:right;
+         margin-bottom: 1rem;'/>
+

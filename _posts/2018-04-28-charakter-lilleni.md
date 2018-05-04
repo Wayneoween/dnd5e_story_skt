@@ -7,3 +7,10 @@ tags: [ "Charakter"]
 ---
 
 ### Waldläufer, tierlieb und flink
+
+<img
+  src='/images/charakter/lilleni.jpg'
+  style='width:40%;
+         float:right;
+         margin-bottom: 1rem;'/>
+

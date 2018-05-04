@@ -7,3 +7,10 @@ tags: [ "Charakter"]
 ---
 
 ### Paladin, zerrüttet und stark
+
+<img
+  src='/images/charakter/ean.jpg'
+  style='width:40%;
+         float:right;
+         margin-bottom: 1rem;'/>
+

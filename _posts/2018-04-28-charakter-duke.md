@@ -6,4 +6,11 @@ image: "/images/charakter/duke.jpg"
 tags: [ "Charakter"]
 ---
 
-### Kämpfer, stark und reich
+### Kämpfer, stark und nobel
+
+<img
+  src='/images/charakter/duke.jpg'
+  style='width:40%;
+         float:right;
+         margin-bottom: 1rem;'/>
+
