@@ -2,4 +2,4 @@ _site
 .sass_cache
 *.scssc
 .DS_Store
-.jekyll_metadata
+.jekyll-metadata
