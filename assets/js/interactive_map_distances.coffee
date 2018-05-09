@@ -9,7 +9,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		# alert(distanceTo('Longsaddle'))
 		# Uncomment the following lines to get the coordinates of a new location
 		# by just clicking on it. Usefull for adding new locations.
-		#$mapImage.on('click', showLocationCoordinates)
+		$mapImage.on('click', showLocationCoordinates)
 
 	coordinateMatrix = {
 		'Conyberry': {x: 36.25, y: 43.42},
@@ -43,7 +43,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 	showLocationCoordinates = (e) ->
 		location = prompt("What's the name of this location?")
 		coordinates = clickingCoordinates(e)
-		alert("'#{location}': {x: #{coordinates.x}, y: #{coordinates.y}}")
+		alert("'#{location}': {x: #{coordinates.x}, y: #{coordinates.y}},")
 
 	clickingCoordinates = (e) ->
 		# Normalized percentual coordinates [x,y] in [0..100]²
