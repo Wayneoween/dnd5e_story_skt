@@ -99,7 +99,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 
 	addMarkerToCurrentLocation = () ->
 		coordinates = coordinateMatrix[currentLocation]
-		@$marker = $("<div class='location-map--marker' style='left: #{coordinates.x}%; top: #{coordinates.y}%;'></div>")
+		@$marker = $("<div class='pin' style='left: #{coordinates.x}%; top: #{coordinates.y}%;'></div>")
 		$map.append($marker)
 
 	locationIndex = (location) ->
