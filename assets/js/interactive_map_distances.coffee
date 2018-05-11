@@ -9,7 +9,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		# alert(distanceTo('Longsaddle'))
 		# Uncomment the following lines to get the coordinates of a new location
 		# by just clicking on it. Usefull for adding new locations.
-		$mapImage.on('click', showLocationCoordinates)
+		# $mapImage.on('click', showLocationCoordinates)
 
 	coordinateMatrix = {
 		'Amphail': {x: 38.67, y: 71.96},
