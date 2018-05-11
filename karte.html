@@ -21,9 +21,9 @@ current_location: 'Nightstone'
   <body>
 
       <section class="post">
-        <h3>Aktuelle Position: {{page.current_location}}</h3>
+        <h4>Aktuelle Position: {% include glossary_link.html title=page.current_location %}</h4>
         <div class='location-map' up-data='"{{page.current_location}}"'></div>
-        <h3>Bereits besuchte Orte</h3>
+        <h4>Bereits besuchte Orte</h4>
 
         <ul>
           <li>{% include glossary_link.html title="Nightstone" %}</li>
