@@ -45,6 +45,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-timeago
+  - jekyll-coffeescript
 
 paginate: 6
 paginate_path: "/blog/page:num/"
@@ -73,6 +74,10 @@ jekyll_timeago:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+
+
+liquid:
+  error_mode: warn # lax = ignore all, warn = output, strict = warn + stop
 
 collections:
 - skt_glossary

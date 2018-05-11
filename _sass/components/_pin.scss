@@ -1,0 +1,23 @@
+// https://codepen.io/andreasstorm/pen/ClguF
+
+.pin {
+	width: 22.5px;
+	height: 22.5px;
+	border-radius: 50% 50% 50% 0;
+	background: #FF530D;
+	position: absolute;
+	transform: rotate(-45deg);
+	left: 50%;
+	top: 50%;
+	margin: -29px 0 0 -12px;
+
+	&:after {
+		content: '';
+		width: 10.5px;
+		height: 10.5px;
+		margin: 6px 0 0 6px;
+		background: #3D7699;
+		position: absolute;
+		border-radius: 50%;
+	}
+}
