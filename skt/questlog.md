@@ -7,7 +7,9 @@ sitemap:
     changefreq: weekly
 ---
 
-# Questlog für Storm King's Thunder
+## Questlog für Storm King's Thunder
+
+----
 
 ## Aktive Quests
 

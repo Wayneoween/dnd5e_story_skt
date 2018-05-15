@@ -1,4 +1,5 @@
-{% for post in site.tags.Charakter %}
+{% assign characters = site.skt_characters | sort: 'title' %}
+{% for post in characters %}
   <article>
     <header>
       <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
