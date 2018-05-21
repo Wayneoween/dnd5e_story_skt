@@ -17,6 +17,19 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
+- scope:
+    path: ""
+    type: skt_characters
+  values:
+    layout: page
+    permalink: "/skt/characters/:title"
+- scope:
+    path: skt
+    type: posts
+  values:
+    permalink: "/skt/:title/"
+    layout: post
+    author:
 
 # Jekyll
 permalink:          /blog/:title/
@@ -80,4 +93,8 @@ liquid:
   error_mode: warn # lax = ignore all, warn = output, strict = warn + stop
 
 collections:
-- skt_glossary
+  skt_glossary:
+    output: false
+  skt_characters:
+    output: true
+    layout: 'page'

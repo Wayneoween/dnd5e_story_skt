@@ -1,9 +1,9 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Neues</a></li>
-  <li class="{% if page.url contains '/skt/' %} active {% endif %}"><a href="{{ "/skt/" | absolute_url }}">Storm King's Thunder</a></li>
+  <li class="{% if page.url contains '/skt/s' or page.url == '/skt/' %} active {% endif %}"><a href="{{ "/skt/" | absolute_url }}">Storm King's Thunder</a></li>
   <li class="{% if page.url contains '/lmop/' %} active {% endif %}"><a href="{{ "/lmop/" | absolute_url }}">Lost Mine of Phandelver</a></li>
-  <li class="{% if page.url contains '/charaktere/' %} active {% endif %}"><a href="{{ "/charaktere/" | absolute_url }}">Charaktere</a></li>
-  <li class="{% if page.url contains '/questlog/' %} active {% endif %}"><a href="{{ "/questlog/" | absolute_url }}">Questlog</a></li>
-  <li class="{% if page.url contains '/karte/' %} active {% endif %}"><a href="{{ "/karte/" | absolute_url }}">Karte</a></li>
-  <li class="{% if page.url contains '/skt_glossary/' %} active {% endif %}"><a href="{{ "/skt_glossary/" | absolute_url }}">Glossar</a></li>
+  <li class="{% if page.url contains '/skt/characters/' %} active {% endif %}"><a href="{{ "/skt/characters/" | absolute_url }}">Charaktere</a></li>
+  <li class="{% if page.url contains '/skt/questlog/' %} active {% endif %}"><a href="{{ "/skt/questlog/" | absolute_url }}">Questlog</a></li>
+  <li class="{% if page.url contains '/skt/karte/' %} active {% endif %}"><a href="{{ "/skt/karte/" | absolute_url }}">Karte</a></li>
+  <li class="{% if page.url contains '/skt/glossary/' %} active {% endif %}"><a href="{{ "/skt/glossary/" | absolute_url }}">Glossar</a></li>
 </ul>

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Glossar zu Storm King's Thunder
+tags: [ "Storm King's Thunder", "SKT"]
+---
+
+<header>
+	<h2>Glossar zu Storm King's Thunder</h2>
+</header>
+<hr>
+
+{% assign items = site.skt_glossary | sort: 'title' %}
+{% for item in items %}
+<h3 id="{{ item.title | downcase | url_encode }}">{{ item.title }}</h3>
+
+{{ item.content }}
+
+{% endfor %}
