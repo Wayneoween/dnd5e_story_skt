@@ -22,6 +22,7 @@ defaults:
     type: skt_characters
   values:
     layout: page
+    permalink: "/skt/characters/:title"
 - scope:
     path: skt
     type: posts
