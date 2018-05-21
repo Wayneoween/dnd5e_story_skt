@@ -27,11 +27,11 @@ glossary_link.html title="Nightstone" %} informieren.
 
 #### Traurige Nachrichten: Goldenfields
 
-Wir sollen Miros Xebrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informieren, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
+Wir sollen Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informieren, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
 
 #### Traurige Nachrichten: Triboar
 
-Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Costa -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
+Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
 
 
 ## Abgeschlossene Quests
@@ -40,4 +40,4 @@ Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} be
 
 Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück gekommen.
 
-Die Höhle war von Ogern und Goblins überrannt. Wir können die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
+Die Höhle war von Ogern und Goblins überrannt. Wir konnten die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
