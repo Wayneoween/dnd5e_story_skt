@@ -9,7 +9,12 @@ tags: [ "Charakter"]
 
 <img
   src='/images/charakter/ean.jpg'
-  style='width:40%;
-         float:right;
-         margin-bottom: 1rem;'/>
+  class='character-image'/>
 
+Kommt aus {% include glossary_link.html title="Laklan" %}, nördlich von
+Neverwinter. Wuchs dort auf als Sohn eines Müllers. Als die Mühle der Familie
+eines Tages aus unbekannten Gründen niederbrannte, verließ er seine
+ursprüngliche Heimat.
+
+Momentan arbeitet Ean als Söldner für den Duke, dem er nach {% include
+glossary_link.html title="Nightstone" %} gefolgt ist.

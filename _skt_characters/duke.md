@@ -9,7 +9,14 @@ tags: [ "Charakter"]
 
 <img
   src='/images/charakter/duke.jpg'
-  style='width:40%;
-         float:right;
-         margin-bottom: 1rem;'/>
+  class='character-image'/>
 
+Der Duke gehört zur wohlhabenden Familie der Brightwoods, die ihren Wohnsitz in
+{% include glossary_link.html title="Waterdeep" %} haben. Zu ihrem Reichtum
+gelangten sie als Perlenhändler.
+
+Sein eigentliches Interesse gilt aber dem Abenteurerdasein, inspiriert durch
+seinen Großvater, der seinerzeit ein „berühmter Abenteurer“ war.
+
+Die Suche nach einem Abenteuer führt ihn nach {% include glossary_link.html
+title="Nightstone" %}.

@@ -9,7 +9,14 @@ tags: [ "Charakter"]
 
 <img
   src='/images/charakter/lilleni.jpg'
-  style='width:40%;
-         float:right;
-         margin-bottom: 1rem;'/>
+  class='character-image'/>
 
+Lilleni wird jederzeit begleitet von „Rama“, einem schwarzen Panther,
+
+Sie kommt ursprünglich aus dem Hochwald.
+
+Lilleni rettete Rama aus den Klauen von „Schattenhunden“. Ramas Mutter überlebte
+nicht.
+
+Als sie nach {% include glossary_link.html title="Nightstone" %} kommt, war sie
+auf dem Weg zum Meer.

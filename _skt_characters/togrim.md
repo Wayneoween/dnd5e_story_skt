@@ -9,7 +9,13 @@ tags: [ "Charakter"]
 
 <img
   src='/images/charakter/togrim.jpg'
-  style='width:40%;
-         float:right;
-         margin-bottom: 1rem;'/>
+  class='character-image'/>
 
+Togrims Instrument ist eine selbstgebautes Saiteninstrument, dass er „einen
+Gi-tarr“ nennt. Neben dem Spielen lauter schriller Musik (die außer ihm niemanden gefällt), lässt es
+sich außerdem auch als Armbrust benutzen.
+
+Togrim ist schwerhörig, weil seine Musik „laut gespielt werden muss“.
+
+Togrim wurde nach {% include glossary_link.html title="Nightstone" %} geschickt,
+um näheres über den dortigen Monolithen herauszufinden.
