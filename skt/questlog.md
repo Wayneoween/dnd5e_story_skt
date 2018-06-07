@@ -33,6 +33,19 @@ Wir sollen Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %
 
 Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
 
+#### Geleitschutz nach Goldenfields
+
+Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %}
+zu einer Auktion in {% include glossary_link.html title="Goldenfields" %}
+begleiten, und ihm beim Verkauf seiner Ware helfen. begleiten, und ihm beim
+Verkauf seiner Ware helfen.
+
+#### Angriff auf Neverwinter
+
+{% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff
+der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %}.
+Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %}
+in Neverwinter.
 
 ## Abgeschlossene Quests
 

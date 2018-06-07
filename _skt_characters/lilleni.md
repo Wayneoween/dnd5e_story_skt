@@ -11,9 +11,9 @@ tags: [ "Charakter"]
   src='/images/charakter/lilleni.jpg'
   class='character-image'/>
 
-Lilleni wird jederzeit begleitet von „Rama“, einem schwarzen Panther,
+Lilleni ist ein Waisenkind, und kommt ursprünglich aus dem Hochwald.
 
-Sie kommt ursprünglich aus dem Hochwald.
+Sie wird jederzeit begleitet von „Rama“, einem schwarzen Panther,
 
 Lilleni rettete Rama aus den Klauen von „Schattenhunden“. Ramas Mutter überlebte
 nicht.
