@@ -14,4 +14,4 @@ Taverne: Golden Tiger
 
 ##### Dock Ward
 
-Stützpunkt von {% include glossary_link.html title="Xanathars Gilde" %}
+Stützpunkt von {% include glossary_link.html title="Xanathars Gilde" %}.

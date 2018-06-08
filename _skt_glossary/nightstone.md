@@ -2,7 +2,7 @@
 ---
 #### Ort
 
-Ein kleiner Ort zwischen Waterdeep und Daggerford, nahe der Küste.
+Ein kleiner Ort zwischen {% include glossary_link.html title="Waterdeep" %} und Daggerford, nahe der Küste.
 
 #### Artefakt
 

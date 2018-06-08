@@ -35,22 +35,15 @@ Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} be
 
 #### Geleitschutz nach Goldenfields
 
-Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %}
-zu einer Auktion in {% include glossary_link.html title="Goldenfields" %}
-begleiten, und ihm beim Verkauf seiner Ware helfen. begleiten, und ihm beim
-Verkauf seiner Ware helfen.
+Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleiten, und ihm beim Verkauf seiner Ware helfen.
 
 #### Angriff auf Neverwinter
 
-{% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff
-der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %}.
-Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %}
-in Neverwinter.
+{% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %} in Neverwinter.
 
 ## Abgeschlossene Quests
 
 #### Rettet die Bewohner von Nightstone
 
 Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück gekommen.
-
 Die Höhle war von Ogern und Goblins überrannt. Wir konnten die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
