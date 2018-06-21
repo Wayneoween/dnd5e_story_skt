@@ -41,6 +41,13 @@ Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %} 
 
 {% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %} in Neverwinter.
 
+
+#### Die Rattenplage
+
+Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200g.
+
+Wir lösen das Rätel, haben aber den Captain noch nicht informiert.
+
 ## Abgeschlossene Quests
 
 #### Rettet die Bewohner von Nightstone
