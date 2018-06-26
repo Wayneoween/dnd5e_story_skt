@@ -33,19 +33,17 @@ Wir sollen Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %
 
 Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
 
-#### Geleitschutz nach Goldenfields
+#### Werbung in Goldenfields
 
-Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleiten, und ihm beim Verkauf seiner Ware helfen.
+Wir sollen für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} machen, um den Erlös der Versteigerung zu erhöhen.
 
 #### Angriff auf Neverwinter
 
 {% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %} in Neverwinter.
 
-#### Die Rattenplage
+#### Der Drache und sein Kraut
 
-Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200g.
-
-Wir lösen das Rätel, haben aber den Captain noch nicht informiert.
+Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in {% include glossary_link.html title="Jalanthar" %} nachdem wir ihn gegen einige {% include glossary_link.html title="Zhentarim" %} Söldner unterstützt haben. Ein paar junger Drachen haben sein Pfeifenkraut geklaut, und wir sollen ihm helfen es zurück zu bekommen.
 
 ## Abgeschlossene Quests
 
@@ -53,3 +51,11 @@ Wir lösen das Rätel, haben aber den Captain noch nicht informiert.
 
 Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück gekommen.
 Die Höhle war von Ogern und Goblins überrannt. Wir konnten die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
+
+#### Die Rattenplage
+
+Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
+
+#### Geleitschutz nach Goldenfields
+
+Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleiten, und ihm beim Verkauf seiner Ware helfen.
