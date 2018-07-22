@@ -18,3 +18,6 @@ ursprüngliche Heimat.
 
 Momentan arbeitet Ean als Söldner für den Duke, dem er nach {% include
 glossary_link.html title="Nightstone" %} gefolgt ist.
+
+Offenbar hat er sich als Paladin irgendwie mit den Paladinen in Helm's Hold
+überworfen.

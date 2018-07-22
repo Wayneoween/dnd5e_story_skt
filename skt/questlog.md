@@ -25,17 +25,9 @@ Wir sollen Markham Southwell, Vogt von {% include glossary_link.html
 title="Bryn Shander" %} über den Tod seines Bruders Semile in {% include
 glossary_link.html title="Nightstone" %} informieren.
 
-#### Traurige Nachrichten: Goldenfields
-
-Wir sollen Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informieren, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
-
 #### Traurige Nachrichten: Triboar
 
 Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
-
-#### Werbung in Goldenfields
-
-Wir sollen für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} machen, um den Erlös der Versteigerung zu erhöhen.
 
 #### Angriff auf Neverwinter
 
@@ -44,6 +36,11 @@ Wir sollen für den Schmied {% include glossary_link.html name="Bale Farnsworth 
 #### Der Drache und sein Kraut
 
 Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in {% include glossary_link.html title="Jalanthar" %} nachdem wir ihn gegen einige {% include glossary_link.html title="Zhentarim" %} Söldner unterstützt haben. Ein paar junger Drachen haben sein Pfeifenkraut geklaut, und wir sollen ihm helfen es zurück zu bekommen.
+
+#### Vorladung nach Helm's Hold
+
+{% include character_link.html title="Ean" %} hat eine Vorladung zu den
+Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er soll erscheinen vor dem 1. Tarsakh.
 
 ## Abgeschlossene Quests
 
@@ -58,4 +55,12 @@ Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauft
 
 #### Geleitschutz nach Goldenfields
 
-Wir sollen einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleiten, und ihm beim Verkauf seiner Ware helfen.
+Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
+
+#### Traurige Nachrichten: Goldenfields
+
+Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informiert, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
+
+#### Werbung in Goldenfields
+
+Wir haben für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} gemacht, um den Erlös der Versteigerung zu erhöhen. Er hat uns Kredit auf seine Waren gewährt.
