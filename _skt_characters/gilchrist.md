@@ -12,3 +12,7 @@ tags: [ "Charakter"]
   class='character-image'/>
 
 Ist aus heiterem Himmel gefallen.
+
+Stammt aus Gullykin, einem Halbling-Dorf. Wird {% include glossary_link.html
+title="Hoobert" %}, einer riesigen Eule, begleitet, die auch sein Reittier ist.
+Offenbar sind solche Eulen in Gullykin normal.

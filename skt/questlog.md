@@ -42,6 +42,14 @@ Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in {% 
 {% include character_link.html title="Ean" %} hat eine Vorladung zu den
 Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er soll erscheinen vor dem 1. Tarsakh.
 
+#### Gu
+
+Der Riese {% include glossary_link.html title="Gu" %} befehligt von {% include
+glossary_link.html title="Gruthaug" %} aus eine Armee von
+Riesen, Ogern und Goblins, die versucht haben {% include glossary_link.html
+title="Goldenfields" %} zu plündern.
+
+
 ## Abgeschlossene Quests
 
 #### Rettet die Bewohner von Nightstone
