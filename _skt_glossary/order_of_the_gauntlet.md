@@ -1,6 +1,14 @@
 ---
 title: Order of the Gauntlet
 ---
+
+<img
+  src='/images/factions/gauntlet.png'
+  style='width:15%;
+         float:right;
+         margin-left: 1rem;
+         margin-bottom: 1rem;'/>
+
 #### Fraktion
 
 Viele Paladine und Kleriker von Tyr, Helm, Torm und Hoar haben sich der Organisation angeschlossen und sehen es als eine Möglichkeit, gemeinsame Sache gegen die Übel in der Welt zu machen.

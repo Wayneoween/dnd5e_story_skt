@@ -1,6 +1,14 @@
 ---
 title: Harpers
 ---
+
+<img
+  src='/images/factions/harpers.png'
+  style='width:15%;
+         float:right;
+         margin-left: 1rem;
+         margin-bottom: 1rem;'/>
+
 #### Fraktion
 
 Die Harpers sind eine alte Organisation, die mehrmals auferstanden, zerschlagen und wiederauferstanden ist.
