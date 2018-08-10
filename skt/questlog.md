@@ -31,7 +31,7 @@ Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} be
 
 #### Angriff auf Neverwinter
 
-{% include glossary_link.html title="Xanathars Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallager" %} in Neverwinter.
+{% include glossary_link.html title="Xanathar's Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallagher" %} in Neverwinter.
 
 #### Der Drache und sein Kraut
 
@@ -40,15 +40,11 @@ Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in {% 
 #### Vorladung nach Helm's Hold
 
 {% include character_link.html title="Ean" %} hat eine Vorladung zu den
-Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er soll erscheinen vor dem 1. Tarsakh.
+Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er soll dort kurz vor dem 1. Tarsakh erscheinen.
 
-#### Gu
+#### Guh
 
-Der Riese {% include glossary_link.html title="Gu" %} befehligt von {% include
-glossary_link.html title="Gruthaug" %} aus eine Armee von
-Riesen, Ogern und Goblins, die versucht haben {% include glossary_link.html
-title="Goldenfields" %} zu plündern.
-
+Der Riese {% include glossary_link.html title="Guh" %} befehligt von {% include glossary_link.html title="Grudd Haug" %} aus eine Armee von Riesen, Ogern und Goblins, die versucht haben {% include glossary_link.html title="Goldenfields" %} zu plündern.
 
 ## Abgeschlossene Quests
 
@@ -57,18 +53,22 @@ title="Goldenfields" %} zu plündern.
 Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück gekommen.
 Die Höhle war von Ogern und Goblins überrannt. Wir konnten die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
 
-#### Die Rattenplage
-
-Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
-
-#### Geleitschutz nach Goldenfields
-
-Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
-
 #### Traurige Nachrichten: Goldenfields
 
 Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informiert, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
 
-#### Werbung in Goldenfields
+#### **Waterdeep**
+
+##### Die Rattenplage
+
+Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
+
+#### **Bale**
+
+##### Geleitschutz nach Goldenfields
+
+Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
+
+##### Werbung in Goldenfields
 
 Wir haben für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} gemacht, um den Erlös der Versteigerung zu erhöhen. Er hat uns Kredit auf seine Waren gewährt.

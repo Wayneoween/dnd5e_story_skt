@@ -1,5 +1,5 @@
 ---
-title: Xanathars Gilde
+title: Xanathar's Gilde
 ---
 #### Vereinigung
 
