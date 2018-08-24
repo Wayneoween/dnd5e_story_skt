@@ -13,11 +13,17 @@ sitemap:
 
 ## Aktive Quests
 
-#### Angriff auf Nightstone und Diebstahl des Monolithen
+#### Die Monolithen
 
-Nightstone wurde von einer fliegenden {% include glossary_link.html title="Wolkenstadt" %} angegriffen. Der Monolith des Dorfes wurde gestohlen.
+Nightstone wurde von einer fliegenden {% include glossary_link.html
+title="Wolkenstadt" %} angegriffen. Der Monolith des Dorfes wurde gestohlen.
 
-Wer steckt hinter dem Angriff?
+Hinter dem Angriff stecken offenbar Wolenriesen mit ihrer {% include
+glossary_link.html title="Wolkenstadt" %}. Die Monolithen scheinen Fähigkeiten
+zu besitzen die gegen Drachen beschützen.
+
+In {% include glossary_link.html title="Red Larch" %} befindet sich ein
+weiterer Monolith, ähnlich wie in Nighstone.
 
 #### Traurige Nachrichten: Bryn Shander
 
@@ -46,6 +52,45 @@ Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er s
 
 Der Riese {% include glossary_link.html title="Guh" %} befehligt von {% include glossary_link.html title="Grudd Haug" %} aus eine Armee von Riesen, Ogern und Goblins, die versucht haben {% include glossary_link.html title="Goldenfields" %} zu plündern.
 
+Sein Ziel ist es, oberster Riese zu werden, indem er so viel isst wie es ihm
+möglich ist.
+
+#### Der falsche Togrim
+
+Nahe Waterdeep (zuletzt in {% include glossary_link.html title="Amphail" %})
+treibt ein falscher Togrim sein Unwesen, dessen Musik offenbar noch unbeliebter
+als die Musik des echten Togrims ist…
+
+#### Erglas, Erwecker der Bäume
+
+{% include glossary_link.html title="Nifalin" %}, der wandelnde Baum von {%
+include glossary_link.html title="Goldenfields" %} hat Lileni gebeten, nach
+seinem „Erwecker“ {% include glossary_link.html title="Erglas" %} in der Gegend
+der Schattenkathedrale im Hochwald zu suchen. Wenn wir ihn finden, sollen wir
+in nach Goldenfields zurück schicken.
+
+#### Überfall auf Amphail
+
+Drei Hügelriesen haben das Fest zu Tylanders Namenstag in {% include
+glossary_link.html title="Amphail" %} geplündert. Wir haben ein Blutvergießen
+verhindert, indem wir die Wachen überzeugt haben, nicht zu kämpfen.
+
+Der designerte Lord Tylander hat uns eine Belohnung versprochen, sobald er Lord
+von Amphail wird (was an Shieldmeet 1494 passieren wird).
+
+####  Die Ordnung der Riesen
+
+{% include glossary_link.html title="Zephyros" %} berichtete, dass die einstige
+Ordnung der Riesen durcheinander gekommen ist, und jetzt alle Riesen um ihren
+Platz und die Gunst des Allvaters zu kämpfen.
+
+Die ursprüngliche Ordnung war
+
+> Sturmriesen > Wolkenriesen > Feuerriesen > Fronstriesen > Stein- und Hügelriesen
+
+Verantwortlich sei eine ihm unbekannte „Entität“.
+
+
 ## Abgeschlossene Quests
 
 #### Rettet die Bewohner von Nightstone
@@ -63,8 +108,6 @@ Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %}
 
 Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
 
-#### **Bale**
-
 ##### Geleitschutz nach Goldenfields
 
 Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
@@ -72,3 +115,10 @@ Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} z
 ##### Werbung in Goldenfields
 
 Wir haben für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} gemacht, um den Erlös der Versteigerung zu erhöhen. Er hat uns Kredit auf seine Waren gewährt.
+
+##### Zi Liangs Erbe
+
+Zi Liang verspricht uns eine Belohnung, wenn wir Caulder Marskyl in {% include
+glossary_link.html title="Amphail" %} eine schwarze Perle zeigen. Die Belohnung
+erweist sich als Zi Liangs Erbe und besteht aus einer Perl of Power und einer
+Potion of Heroism.
