@@ -11,14 +11,14 @@ sitemap:
 
 ----
 
-## Aktive Quests
+## Offene Quests
 
 #### Die Monolithen
 
 Nightstone wurde von einer fliegenden {% include glossary_link.html
 title="Wolkenstadt" %} angegriffen. Der Monolith des Dorfes wurde gestohlen.
 
-Hinter dem Angriff stecken offenbar Wolenriesen mit ihrer {% include
+Hinter dem Angriff stecken offenbar Wolkenriesen mit ihrer {% include
 glossary_link.html title="Wolkenstadt" %}. Die Monolithen scheinen Fähigkeiten
 zu besitzen die gegen Drachen beschützen.
 
@@ -89,6 +89,28 @@ Die ursprüngliche Ordnung war
 > Sturmriesen > Wolkenriesen > Feuerriesen > Fronstriesen > Stein- und Hügelriesen
 
 Verantwortlich sei eine ihm unbekannte „Entität“.
+
+#### CSI Red Larch
+
+*Grindol Farmoor* hat *Kali Brightsong*
+vor unserern Augen die Kehle durchgeschnitten, war aber zu dem Zeitpunkt
+offenbar nicht Herr seiner selbst. Er lebt in einer verlassenen Hütte nahe des
+{% include glossary_link.html title="Land's Rock" %}, die angeblich verflucht
+ist.
+
+Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dankbar
+für die Aufklärung des „Falls“.
+
+#### Ein Drache im Kryptgarden-Wald
+*Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %}
+möchte das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
+{% include glossary_link.html title="Kryptgarden-Wald" %} töten.
+
+
+#### Edelsteine im Kryptgarden-Wald
+Der Edelstein-Händler *Skaran* hat uns angeheuert Edelsteine im {% include
+glossary_link.html title="Kryptgarden-Wald" %} zu suchen, insbesondere eine
+wertvollen Diamanten namens *Alagorans Stein*.
 
 
 ## Abgeschlossene Quests
