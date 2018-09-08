@@ -1,5 +1,5 @@
 ---
-title: Land's Rock
+title: Lance Rock
 ---
 
 #### Artefakt

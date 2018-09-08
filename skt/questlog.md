@@ -78,7 +78,7 @@ verhindert, indem wir die Wachen überzeugt haben, nicht zu kämpfen.
 Der designerte Lord Tylander hat uns eine Belohnung versprochen, sobald er Lord
 von Amphail wird (was an Shieldmeet 1494 passieren wird).
 
-####  Die Ordnung der Riesen
+#### Die Ordnung der Riesen
 
 {% include glossary_link.html title="Zephyros" %} berichtete, dass die einstige
 Ordnung der Riesen durcheinander gekommen ist, und jetzt alle Riesen um ihren
@@ -92,10 +92,9 @@ Verantwortlich sei eine ihm unbekannte „Entität“.
 
 #### CSI Red Larch
 
-*Grindol Farmoor* hat *Kali Brightsong*
-vor unserern Augen die Kehle durchgeschnitten, war aber zu dem Zeitpunkt
+*Grindol Farmoor* hat *Kali Brightsong* vor unserern Augen die Kehle durchgeschnitten, war aber zu dem Zeitpunkt
 offenbar nicht Herr seiner selbst. Er lebt in einer verlassenen Hütte nahe des
-{% include glossary_link.html title="Land's Rock" %}, die angeblich verflucht
+{% include glossary_link.html title="Lance Rock" %}, die angeblich verflucht
 ist.
 
 Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dankbar
@@ -106,12 +105,10 @@ für die Aufklärung des „Falls“.
 möchte das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
 {% include glossary_link.html title="Kryptgarden-Wald" %} töten.
 
-
 #### Edelsteine im Kryptgarden-Wald
-Der Edelstein-Händler *Skaran* hat uns angeheuert Edelsteine im {% include
+Der Edelstein-Händler {% include glossary_link.html title="*Skaran*" name="Skaran" %} hat uns angeheuert Edelsteine im {% include
 glossary_link.html title="Kryptgarden-Wald" %} zu suchen, insbesondere eine
 wertvollen Diamanten namens *Alagorans Stein*.
-
 
 ## Abgeschlossene Quests
 
