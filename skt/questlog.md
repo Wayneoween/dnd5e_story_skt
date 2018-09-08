@@ -63,8 +63,8 @@ als die Musik des echten Togrims ist…
 
 #### Erglas, Erwecker der Bäume
 
-{% include glossary_link.html title="Nifalin" %}, der wandelnde Baum von {%
-include glossary_link.html title="Goldenfields" %} hat Lileni gebeten, nach
+{% include glossary_link.html title="Lifferlas" %}, der wandelnde Baum von {%
+include glossary_link.html title="Goldenfields" %} hat Lilleni gebeten, nach
 seinem „Erwecker“ {% include glossary_link.html title="Erglas" %} in der Gegend
 der Schattenkathedrale im Hochwald zu suchen. Wenn wir ihn finden, sollen wir
 in nach Goldenfields zurück schicken.
