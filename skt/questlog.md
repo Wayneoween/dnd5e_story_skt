@@ -23,7 +23,8 @@ glossary_link.html title="Wolkenstadt" %}. Die Monolithen scheinen Fähigkeiten
 zu besitzen die gegen Drachen beschützen.
 
 In {% include glossary_link.html title="Red Larch" %} befindet sich ein
-weiterer Monolith, ähnlich wie in Nighstone.
+weiterer Monolith, ähnlich wie in {% include glossary_link.html
+title="Nightstone" %}.
 
 #### Traurige Nachrichten: Bryn Shander
 
@@ -33,24 +34,38 @@ glossary_link.html title="Nightstone" %} informieren.
 
 #### Traurige Nachrichten: Triboar
 
-Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten, dass ihr Exmann -- ehemals Besitzer des Lionshield Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {% include glossary_link.html title="Nightstone" %} von Ratten gefressen.
+Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten,
+dass ihr Exmann -- ehemals Besitzer des Lionshield
+Gemischtwarenladens -- gestorben ist. Er wurde in den Höhlen nördlich von {%
+include glossary_link.html title="Nightstone" %} von Ratten gefressen.
 
 #### Angriff auf Neverwinter
 
-{% include glossary_link.html title="Xanathar's Gilde" %} befüchtet einen Angriff der Wolkenriesen auf {% include glossary_link.html title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include glossary_link.html title="Bambra Gallagher" %} in Neverwinter.
+{% include glossary_link.html title="Xanathar's Gilde" %} befüchtet einen
+Angriff der Wolkenriesen auf {% include glossary_link.html
+title="Neverwinter" %} im Norden. Kontaktperson ist eine {% include
+glossary_link.html title="Bambra Gallagher" %} in Neverwinter.
 
 #### Der Drache und sein Kraut
 
-Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in {% include glossary_link.html title="Jalanthar" %} nachdem wir ihn gegen einige {% include glossary_link.html title="Zhentarim" %} Söldner unterstützt haben. Ein paar junger Drachen haben sein Pfeifenkraut geklaut, und wir sollen ihm helfen es zurück zu bekommen.
+Der Drache {% include glossary_link.html title="Felgolos" %} erwartet uns in
+{% include glossary_link.html title="Jalanthar" %} nachdem wir ihn gegen
+einige {% include glossary_link.html title="Zhentarim" %} Söldner unterstützt
+haben. Ein paar junger Drachen haben sein Pfeifenkraut geklaut, und wir
+sollen ihm helfen es zurück zu bekommen.
 
 #### Vorladung nach Helm's Hold
 
 {% include character_link.html title="Ean" %} hat eine Vorladung zu den
-Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten. Er soll dort kurz vor dem 1. Tarsakh erscheinen.
+Paladinen in {% include glossary_link.html title="Helm's Hold" %} erhalten.
+Er soll dort kurz vor dem 1. Tarsakh erscheinen.
 
 #### Guh
 
-Der Riese {% include glossary_link.html title="Guh" %} befehligt von {% include glossary_link.html title="Grudd Haug" %} aus eine Armee von Riesen, Ogern und Goblins, die versucht haben {% include glossary_link.html title="Goldenfields" %} zu plündern.
+Der Riese {% include glossary_link.html title="Guh" %} befehligt von {%
+include glossary_link.html title="Grudd Haug" %} aus eine Armee von Riesen,
+Ogern und Goblins, die versucht haben {% include glossary_link.html
+title="Goldenfields" %} zu plündern.
 
 Sein Ziel ist es, oberster Riese zu werden, indem er so viel isst wie es ihm
 möglich ist.
@@ -101,12 +116,15 @@ Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dank
 für die Aufklärung des „Falls“.
 
 #### Ein Drache im Kryptgarden-Wald
-*Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %}
-möchte das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
+
+*Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %} möchte
+das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
 {% include glossary_link.html title="Kryptgarden-Wald" %} töten.
 
 #### Edelsteine im Kryptgarden-Wald
-Der Edelstein-Händler {% include glossary_link.html title="*Skaran*" name="Skaran" %} hat uns angeheuert Edelsteine im {% include
+
+Der Edelstein-Händler {% include glossary_link.html title="*Skaran*"
+name="Skaran" %} hat uns angeheuert Edelsteine im {% include
 glossary_link.html title="Kryptgarden-Wald" %} zu suchen, insbesondere eine
 wertvollen Diamanten namens *Alagorans Stein*.
 
@@ -114,26 +132,38 @@ wertvollen Diamanten namens *Alagorans Stein*.
 
 #### Rettet die Bewohner von Nightstone
 
-Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück gekommen.
-Die Höhle war von Ogern und Goblins überrannt. Wir konnten die meisten Bewohner sicher zurück nach {% include glossary_link.html title="Nightstone" %} bringen.
+Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind
+nach dem Angriff in eine Höhle geflohen, aber noch nicht wieder zurück
+gekommen. Die Höhle war von Ogern und Goblins überrannt. Wir konnten die
+meisten Bewohner sicher zurück nach {% include glossary_link.html
+title="Nightstone" %} bringen.
 
 #### Traurige Nachrichten: Goldenfields
 
-Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner Familie informiert, die in {% include glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
+Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields"
+%} über den Tod seiner Familie informiert, die in {% include
+glossary_link.html title="Nightstone" %} von einem Felsen erschlagen wurde.
 
 #### **Waterdeep**
 
 ##### Die Rattenplage
 
-Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle der Rattenplage im Dock Ward herauszufinden, und verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
+Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt
+uns die Quelle der Rattenplage im Dock Ward herauszufinden, und
+verspricht pro Person (4x) 200 Goldmünzen, die wir erhalten haben.
 
 ##### Geleitschutz nach Goldenfields
 
-Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep" %} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
+Wir haben einen Schmied aus {% include glossary_link.html title="Waterdeep"
+%} zu einer Auktion in {% include glossary_link.html title="Goldenfields" %} begleitet.
 
 ##### Werbung in Goldenfields
 
-Wir haben für den Schmied {% include glossary_link.html name="Bale Farnsworth Havensack Udeer" title="Bale" %} aus {% include glossary_link.html title="Waterdeep" %} Werbung in {% include glossary_link.html title="Goldenfields" %} gemacht, um den Erlös der Versteigerung zu erhöhen. Er hat uns Kredit auf seine Waren gewährt.
+Wir haben für den Schmied {% include glossary_link.html name="Bale Farnsworth
+Havensack Udeer" title="Bale" %} aus {% include glossary_link.html
+title="Waterdeep" %} Werbung in {% include glossary_link.html
+title="Goldenfields" %} gemacht, um den Erlös der Versteigerung zu erhöhen.
+Er hat uns Kredit auf seine Waren gewährt.
 
 ##### Zi Liangs Erbe
 
