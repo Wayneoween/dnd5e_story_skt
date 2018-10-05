@@ -105,16 +105,6 @@ Die ursprüngliche Ordnung war
 
 Verantwortlich sei eine ihm unbekannte „Entität“.
 
-#### CSI Red Larch
-
-*Grindol Farmoor* hat *Kali Brightsong* vor unserern Augen die Kehle durchgeschnitten, war aber zu dem Zeitpunkt
-offenbar nicht Herr seiner selbst. Er lebt in einer verlassenen Hütte nahe des
-{% include glossary_link.html title="Lance Rock" %}, die angeblich verflucht
-ist.
-
-Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dankbar
-für die Aufklärung des „Falls“.
-
 #### Ein Drache im Kryptgarden-Wald
 
 *Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %} möchte
@@ -127,6 +117,11 @@ Der Edelstein-Händler {% include glossary_link.html title="*Skaran*"
 name="Skaran" %} hat uns angeheuert Edelsteine im {% include
 glossary_link.html title="Kryptgarden-Wald" %} zu suchen, insbesondere eine
 wertvollen Diamanten namens *Alagorans Stein*.
+
+
+#### Nightwall Farm
+
+Wir haben die Besitzurkunde von {% include glossary_link.html title="Nightwall Farm" %}, die sich offenbar nahe {% include glossary_link.html title="Amphail" %} befindet.
 
 ## Abgeschlossene Quests
 
@@ -171,3 +166,15 @@ Zi Liang verspricht uns eine Belohnung, wenn wir Caulder Marskyl in {% include
 glossary_link.html title="Amphail" %} eine schwarze Perle zeigen. Die Belohnung
 erweist sich als Zi Liangs Erbe und besteht aus einer Perl of Power und einer
 Potion of Heroism.
+
+#### CSI Red Larch
+
+*Grindol Farmoor* hat *Kali Brightsong* vor unserern Augen die Kehle durchgeschnitten, war aber zu dem Zeitpunkt
+offenbar nicht Herr seiner selbst. Er lebt in einer verlassenen Hütte nahe des
+{% include glossary_link.html title="Lance Rock" %}, die angeblich verflucht
+ist.
+
+Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dankbar
+für die Aufklärung des „Falls“.
+
+Wir haben Grindol vor seiner Hinrichtung bewahrt, nachdem wir die Kultisten unter seinr Hütte vertrieben haben.
