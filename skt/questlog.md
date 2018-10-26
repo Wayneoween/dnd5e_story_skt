@@ -118,7 +118,6 @@ name="Skaran" %} hat uns angeheuert Edelsteine im {% include
 glossary_link.html title="Kryptgarden-Wald" %} zu suchen, insbesondere eine
 wertvollen Diamanten namens *Alagorans Stein*.
 
-
 #### Nightwall Farm
 
 Wir haben die Besitzurkunde von {% include glossary_link.html title="Nightwall Farm" %}, die sich offenbar nahe {% include glossary_link.html title="Amphail" %} befindet.
