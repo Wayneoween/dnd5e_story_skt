@@ -74,7 +74,7 @@ möglich ist.
 
 Nahe Waterdeep (zuletzt in {% include glossary_link.html title="Amphail" %})
 treibt ein falscher Togrim sein Unwesen, dessen Musik offenbar noch unbeliebter
-als die Musik des echten Togrims ist…
+als die Musik des echten Togrims ist...
 
 #### Erglas, Erwecker der Bäume
 
@@ -101,7 +101,7 @@ Platz und die Gunst des Allvaters zu kämpfen.
 
 Die ursprüngliche Ordnung war
 
-> Sturmriesen > Wolkenriesen > Feuerriesen > Fronstriesen > Stein- und Hügelriesen
+> Sturmriesen > Wolkenriesen > Feuerriesen > Frostriesen > Stein- und Hügelriesen
 
 Verantwortlich sei eine ihm unbekannte „Entität“.
 
@@ -176,4 +176,4 @@ ist.
 Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dankbar
 für die Aufklärung des „Falls“.
 
-Wir haben Grindol vor seiner Hinrichtung bewahrt, nachdem wir die Kultisten unter seinr Hütte vertrieben haben.
+Wir haben Grindol vor seiner Hinrichtung bewahrt, nachdem wir die Kultisten unter seiner Hütte vertrieben haben.
