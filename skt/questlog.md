@@ -109,7 +109,8 @@ Verantwortlich sei eine ihm unbekannte „Entität“.
 
 *Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %} möchte
 das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
-{% include glossary_link.html title="Kryptgarden-Wald" %} töten.
+{% include glossary_link.html title="Kryptgarden-Wald" %} nach Informationen
+zur aktuellen Situation mit den Riesen befragen.
 
 #### Edelsteine im Kryptgarden-Wald
 
