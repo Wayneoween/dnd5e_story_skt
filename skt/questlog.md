@@ -105,13 +105,6 @@ Die ursprüngliche Ordnung war
 
 Verantwortlich sei eine ihm unbekannte „Entität“.
 
-#### Ein Drache im Kryptgarden-Wald
-
-*Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %} möchte
-das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
-{% include glossary_link.html title="Kryptgarden-Wald" %} nach Informationen
-zur aktuellen Situation mit den Riesen befragen.
-
 #### Edelsteine im Kryptgarden-Wald
 
 Der Edelstein-Händler {% include glossary_link.html title="*Skaran*"
@@ -122,6 +115,19 @@ wertvollen Diamanten namens *Alagorans Stein*.
 #### Nightwall Farm
 
 Wir haben die Besitzurkunde von {% include glossary_link.html title="Nightwall Farm" %}, die sich offenbar nahe {% include glossary_link.html title="Amphail" %} befindet.
+
+#### Verbündete
+
+{% include glossary_link.html title="Old Gnawbone" %} glaubt, dass {% include glossary_link.html
+ title="Harsnak" %} ein Verbündeter im Kampf gegen die Riesen sein könnte. Zuletzt wurde
+er weit im Norden am Tempel *Auge des Allvaters* im *Khedrun-Tal* gesichtet.
+
+#### Ein Gefallen für Old Gnawbone
+
+{% include glossary_link.html title="Old Gnawbone" %} hat uns ein Artefakt gegeben, dass
+wir für ihn irgendwo in {% include glossary_link.html title="Waterdeep" %} anbringen sollen.
+Offenbar kann er damit spionieren. Wir sind uns nicht sicher, ob das eine gute Idee ist
+
 
 ## Abgeschlossene Quests
 
@@ -178,3 +184,10 @@ Möglicherweise ist {% include glossary_link.html title="Aleena Ironsky" %} dank
 für die Aufklärung des „Falls“.
 
 Wir haben Grindol vor seiner Hinrichtung bewahrt, nachdem wir die Kultisten unter seiner Hütte vertrieben haben.
+
+#### Ein Drache im Kryptgarden-Wald
+
+*Chazlauth Yarghorn* in {% include glossary_link.html title="Waterdeep" %} möchte
+das wir den Drachen {% include glossary_link.html title="Old Gnawbone" %} im
+{% include glossary_link.html title="Kryptgarden-Wald" %} nach Informationen
+zur aktuellen Situation mit den Riesen befragen.
