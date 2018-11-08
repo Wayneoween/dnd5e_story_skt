@@ -76,11 +76,11 @@ Nahe Waterdeep (zuletzt in {% include glossary_link.html title="Amphail" %})
 treibt ein falscher Togrim sein Unwesen, dessen Musik offenbar noch unbeliebter
 als die Musik des echten Togrims ist...
 
-#### Erglas, Erwecker der Bäume
+#### Aerglas, Erwecker der Bäume
 
 {% include glossary_link.html title="Lifferlas" %}, der wandelnde Baum von {%
 include glossary_link.html title="Goldenfields" %} hat Lilleni gebeten, nach
-seinem „Erwecker“ {% include glossary_link.html title="Erglas" %} in der Gegend
+seinem „Erwecker“ {% include glossary_link.html title="Aerglas" %} in der Gegend
 der Schattenkathedrale im Hochwald zu suchen. Wenn wir ihn finden, sollen wir
 in nach Goldenfields zurück schicken.
 
