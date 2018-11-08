@@ -1,0 +1,16 @@
+@media (min-width: 736px) {
+  .image-right, .image-left {
+    max-width: 40%;
+    margin-left: 20px !important;
+    margin-bottom: 20px;
+  }
+  .image-right {
+    float: right;
+    &.move-left {
+      margin-left: -40px !important;
+    }
+  }
+  .image-left {
+    float: left;
+  }
+}

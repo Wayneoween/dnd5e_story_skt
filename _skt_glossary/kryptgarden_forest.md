@@ -3,6 +3,6 @@ title: Kryptgarden-Wald
 ---
 #### Ort
 
-Wald nordöstlich von {% include glossary_link.html title="Red Larch" %}. Verbirgt angeblich viele alte Zwergenruinen.
+Wald nordöstlich von {% include glossary_link.html title="Red Larch" %}. Verbirgt viele alte Zwergenruinen.
 
-Angeblich Heimat von {% include glossary_link.html title="Old Gnawbone" %}.
+Heimat von {% include glossary_link.html title="Old Gnawbone" %}.
