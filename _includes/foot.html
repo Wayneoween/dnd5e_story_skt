@@ -8,7 +8,7 @@
         {% else %}
         <section>
         {% endif %}
-          <strong>{{ link.title }}</strong> (<a href="{{ link.url_de }}" target='_blank'>Deutsch</a>/<a href="{{ link.url_en }}" target='_blank'>Englisch</a>)
+          <strong>{{ link.title }}</strong> (<a href="{{ link.url_de }}" target='_blank'>Deutsch</a>/<a href="{{ link.url_en }}" target='_blank' rel='noopener'>Englisch</a>)
         </section>
         {% assign postCounter = postCounter | plus: 1 %}
       {% endif %}
@@ -23,7 +23,7 @@
         {% else %}
         <section>
         {% endif %}
-        <strong>{{ link.title }}</strong> ({% if link.url_de %}<a href="{{ link.url_de }}" target='_blank'>Deutsch</a>/{% endif %}<a href="{{ link.url_en }}" target='_blank'>Englisch</a>)
+        <strong>{{ link.title }}</strong> ({% if link.url_de %}<a href="{{ link.url_de }}" target='_blank'>Deutsch</a>/{% endif %}<a href="{{ link.url_en }}" target='_blank' rel='noopener'>Englisch</a>)
         </section>
         {% assign postCounter = postCounter | plus: 1 %}
       {% endif %}
