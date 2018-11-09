@@ -1,6 +1,6 @@
 ---
 title: "Lilleni Woodwalker"
-date: 2018-03-28T08:00:00+01:00
+date: 2018-03-02T08:00:00+01:00
 image: "/images/charakter/lilleni.jpg"
 tags: [ "Charakter"]
 ---
