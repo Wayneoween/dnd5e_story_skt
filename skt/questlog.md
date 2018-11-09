@@ -5,6 +5,7 @@ sitemap:
     priority: 1
     lastmod: 2018-03-01
     changefreq: weekly
+bodyclasses: questlog
 ---
 
 ## Questlog für Storm King's Thunder
