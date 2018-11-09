@@ -114,20 +114,20 @@ wertvollen Diamanten namens *Alagorans Stein*.
 
 #### Nightwall Farm
 
-Wir haben die Besitzurkunde von {% include glossary_link.html title="Nightwall Farm" %}, die sich offenbar nahe {% include glossary_link.html title="Amphail" %} befindet.
+Wir haben die Besitzurkunde von {% include glossary_link.html title="Nightwall Farm" %}, die sich offenbar nahe {%
+include glossary_link.html title="Amphail" %} befindet.
 
 #### Verbündete
 
-{% include glossary_link.html title="Old Gnawbone" %} glaubt, dass {% include glossary_link.html
- title="Harsnak" %} ein Verbündeter im Kampf gegen die Riesen sein könnte. Zuletzt wurde
-er weit im Norden am Tempel *Auge des Allvaters* im *Khedrun-Tal* gesichtet.
+{% include glossary_link.html title="Old Gnawbone" %} glaubt, dass {% include glossary_link.html title="Harsnag" %} ein
+Verbündeter im Kampf gegen die Riesen sein könnte. Mit seiner Hilfe sollen wir den Weg zum weit im Norden liegenden
+Tempel *Auge des Allvaters* im *Khedrun-Tal* finden können.
 
 #### Ein Gefallen für Old Gnawbone
 
 {% include glossary_link.html title="Old Gnawbone" %} hat uns ein Artefakt gegeben, dass
-wir für ihn irgendwo in {% include glossary_link.html title="Waterdeep" %} anbringen sollen.
-Offenbar kann er damit spionieren. Wir sind uns nicht sicher, ob das eine gute Idee ist
-
+wir für sie irgendwo in {% include glossary_link.html title="Waterdeep" %} anbringen sollen.
+Offenbar kann sie damit spionieren. Wir sind uns nicht sicher, ob das eine gute Idee ist
 
 ## Abgeschlossene Quests
 
