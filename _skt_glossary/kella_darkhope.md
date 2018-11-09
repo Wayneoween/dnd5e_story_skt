@@ -2,7 +2,7 @@
 title: Kella Darkhope
 ---
 
-#### Person
+#### Person <i class="fas fa-user-alt"></i>
 
 Agentin der {% include glossary_link.html title="Zhentarim" %}.
 
