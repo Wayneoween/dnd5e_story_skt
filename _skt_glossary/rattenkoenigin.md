@@ -2,7 +2,7 @@
 title: Rattenkönigin
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Caterine Brisbee, aus dem Dock Ward von {% include glossary_link.html
 title="Waterdeep" %}. Kontrolliert die örtliche Rattenpopulation. Führt ihren

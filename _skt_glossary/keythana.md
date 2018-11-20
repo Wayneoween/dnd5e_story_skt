@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Weiblicher Firbolg, möchte Ehre erwerben und ein Ritter werden. Hat
 magische Fähigkeiten.

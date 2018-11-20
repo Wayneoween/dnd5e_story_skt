@@ -2,6 +2,6 @@
 title: Tylander Roaringhorn
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Designierter Lord von {% include glossary_link.html title="Amphail" %}.

@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Halbork
+#### Halbork {{ site.icons_html.person }}
 
 <img src='/images/skt/sharo.png' class="image-left move-left" style="max-width: 300px" />
 

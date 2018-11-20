@@ -2,7 +2,7 @@
 title: Nordländer
 ---
 
-#### Bevölkerungsgruppe Nord Faerûns
+#### Bevölkerungsgruppe Nord Faerûns {{ site.icons_html.tribe }}
 
 Auch unter Nordvolk bekannt, bezeichnet man damit eines von mehreren Seevölkern, deren körperliche Merkmale einen hohen Wuchs und lange, blonde Haare sind. Sie befahren die kalten nördlichen Gewässer und leben auf den Inseln des Westens wie etwa Tuern, Gundarlun, Ruathym, die Purple Rocks und der Korinn Archipel.
 

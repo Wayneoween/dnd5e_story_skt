@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Inhaber des Split Inn in {% include
 glossary_link.html title="Nightstone" %}. De-fakto Anführer des Dorfes.

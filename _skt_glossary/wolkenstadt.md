@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Ort
+#### Ort  {{ site.icons_html.location }}
 
 Mysteriöse fliegende Stadt. Waren früher häufiger bekannt, gehörten
 Wolkenriesen aus „Ostoria“.

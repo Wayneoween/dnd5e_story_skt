@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Monster
+#### Monster {{ site.icons_html.monster }}
 
 <img src='/images/skt/nothic.jpg' style='max-width: 300px;' />
 

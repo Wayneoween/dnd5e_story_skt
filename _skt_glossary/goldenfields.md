@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Ort
+#### Ort  {{ site.icons_html.location }}
 
 Ort nordöstlich von {% include glossary_link.html title="Waterdeep" %}.
 
