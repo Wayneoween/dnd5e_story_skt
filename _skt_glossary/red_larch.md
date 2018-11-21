@@ -2,7 +2,7 @@
 title: Red Larch
 ---
 
-#### Ort
+#### Ort  {{ site.icons_html.location }}
 
 Kleiner Ort nördlich von {% include glossary_link.html title="Waterdeep" %}.
 

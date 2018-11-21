@@ -1,6 +1,6 @@
 ---
 ---
-#### Ort
+#### Ort  {{ site.icons_html.location }}
 
 Ein kleiner Ort zwischen {% include glossary_link.html title="Waterdeep" %} und Daggerford, nahe der Küste.
 

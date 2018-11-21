@@ -2,6 +2,6 @@
 title: Bambra Gallagher
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Kontaktperson mit Verbindung zu {% include glossary_link.html title="Xanathars Gilde" %} in {% include glossary_link.html title="Neverwinter" %}.

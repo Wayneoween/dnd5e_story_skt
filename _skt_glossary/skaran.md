@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Zwerg. Edelstein-Händler in {% include glossary_link.html title="Red Larch" %}.
 

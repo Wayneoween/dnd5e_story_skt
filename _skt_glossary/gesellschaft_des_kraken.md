@@ -2,7 +2,7 @@
 title: Gesellschaft des Kraken
 ---
 
-#### Kult
+#### Kult {{ site.icons_html.faction }}
 
 Mitglieder tragen rote Kutten und reiten auf großen Geiern.
 

@@ -2,7 +2,7 @@
 title: Helm's Hold
 ---
 
-#### Ort
+#### Ort  {{ site.icons_html.location }}
 
 Nahe Neverwinter.
 

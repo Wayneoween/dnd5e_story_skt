@@ -2,7 +2,7 @@
 title: Old Gnawbone
 ---
 
-#### Chromatischer Drache: Grün
+#### Chromatischer Drache: Grün {{ site.icons_html.dragon }}
 
 <img src='/images/skt/gnawbone.jpg' style="max-width: 500px" />
 

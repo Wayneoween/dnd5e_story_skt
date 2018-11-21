@@ -1,6 +1,6 @@
 ---
 ---
 
-#### Person <i class="fas fa-user-alt"></i>
+#### Person {{ site.icons_html.person }}
 
 Wandelnder Baum von {% include glossary_link.html title="Goldenfields" %}.
