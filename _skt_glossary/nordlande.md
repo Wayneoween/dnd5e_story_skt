@@ -1,7 +1,8 @@
 ---
 title: Nordlande von Faerûn
+type: Gebiet
+icon: ort
 ---
-#### Gebiet {{ site.icons_html.location }}
 
 ##### Bevölkerung
 

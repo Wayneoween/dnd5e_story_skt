@@ -1,8 +1,8 @@
 ---
 title: Kella Darkhope
+type: Person
+icon: person_jail
 ---
-
-#### Person {{ site.icons_html.person }}
 
 Agentin der {% include glossary_link.html title="Zhentarim" %}.
 

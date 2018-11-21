@@ -14,6 +14,17 @@ bodyclasses: glossary
 {% for item in items %}
 <h3 id="{{ item.title | downcase | url_encode }}">{{ item.title }}</h3>
 
+{% if item.icon %}
+<h4 id="{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
+
 {{ item.content }}
+{% elsif item.type %}
+<h4 id="{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+
+{{ item.content }}
+{% else %}
+{{ item.content }}
+{% endif %}
+
 
 {% endfor %}

@@ -1,10 +1,10 @@
 ---
+title: Sharo Bonesnapper (Brightwood)
+type: Person
 ---
 
-#### Halbork {{ site.icons_html.person }}
+<img src='/images/skt/sharo.png' class="image-right move-left" style="max-width: 300px" />
 
-<img src='/images/skt/sharo.png' class="image-left move-left" style="max-width: 300px" />
-
-Tochter von Dukes Großmutter. Anführer einer Barbarengruppe.
+Halbork und Tochter von Dukes Großmutter. Anführer einer Barbarengruppe.
 
 <div style="clear: both"></div>

@@ -1,8 +1,8 @@
 ---
 title: Old Gnawbone
+type: "Chromatischer Drache: Grün"
+icon: drache
 ---
-
-#### Chromatischer Drache: Grün {{ site.icons_html.dragon }}
 
 <img src='/images/skt/gnawbone.jpg' style="max-width: 500px" />
 

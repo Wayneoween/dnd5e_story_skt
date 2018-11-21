@@ -1,10 +1,8 @@
 ---
+type: Ort
 ---
 
-#### Ort  {{ site.icons_html.location }}
+Mysteriöse fliegende Stadt. Waren früher häufiger bekannt, gehörten Wolkenriesen aus "Ostoria".
 
-Mysteriöse fliegende Stadt. Waren früher häufiger bekannt, gehörten
-Wolkenriesen aus „Ostoria“.
-
-Verwantwortlich für die Bombardierung von {% include glossary_link.html
-title="Nightstone" %} und den Diebstahl des Monolithen.
+Verwantwortlich für die Bombardierung von {% include glossary_link.html title="Nightstone" %} und
+den Diebstahl des Monolithen.

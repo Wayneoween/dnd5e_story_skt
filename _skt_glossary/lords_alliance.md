@@ -1,5 +1,6 @@
 ---
 title: Lord's Alliance
+type: Fraktion
 ---
 
 <img
@@ -8,8 +9,6 @@ title: Lord's Alliance
          float:right;
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
-
-#### Fraktion {{ site.icons_html.faction }}
 
 Die Angst vor der Wildnis und ihren vielen Schrecken führte zur Gründung der Lords' Alliance, einem losen Bündnis von Städten und Siedlungen, die auf gegenseitig vorteilhaften Handelsabkommen beruhen, und der Bereitschaft, Bedrohungen der Zivilisation aufzuspüren und zu zerstören.
 

@@ -1,7 +1,6 @@
 ---
+type: Person
 ---
-
-#### Person {{ site.icons_html.person }}
 
 Goblin. Anführer der Goblins in der Höhle nördlich von {% include
 glossary_link.html title="Nightstone" %}. Von den Helden gefangengenommen und

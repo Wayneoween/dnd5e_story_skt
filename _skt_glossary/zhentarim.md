@@ -1,4 +1,5 @@
 ---
+type: Fraktion
 ---
 
 <img
@@ -7,8 +8,6 @@
          float:right;
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
-
-#### Fraktion {{ site.icons_html.faction }}
 
 Die Zhentarim wollen allgegenwärtig und unausweichlich, reicher und mächtiger und vor allem unantastbar werden. Das öffentliche Gesicht der Organisation erscheint viel freundlicher und bietet die besten Söldner, die man mit Geld kaufen kann.
 

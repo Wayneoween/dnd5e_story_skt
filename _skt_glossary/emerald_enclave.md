@@ -1,5 +1,6 @@
 ---
 title: Emerald Enclave
+type: Fraktion
 ---
 
 <img
@@ -8,8 +9,6 @@ title: Emerald Enclave
          float:right;
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
-
-#### Fraktion {{ site.icons_html.faction }}
 
 Die Smaragdenklave ist eine weitreichende Gruppe, die sich der Bedrohung der Natur widersetzt und anderen hilft, die vielen Gefahren der Wildnis zu überleben.
 Ein Ranger kann angeheuert werden, um eine Karawane durch einen tückischen Bergpass oder die gefrorene Tundra von Icewind Dale zu führen.

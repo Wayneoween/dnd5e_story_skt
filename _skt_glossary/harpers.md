@@ -1,5 +1,6 @@
 ---
 title: Harpers
+type: Fraktion
 ---
 
 <img
@@ -8,8 +9,6 @@ title: Harpers
          float:right;
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
-
-#### Fraktion {{ site.icons_html.faction }}
 
 Die Harpers sind eine alte Organisation, die mehrmals auferstanden, zerschlagen und wiederauferstanden ist.
 Ihre Langlebigkeit und Belastbarkeit ist vor allem seiner dezentralen, demokratischen, geheimnisvollen Natur und der Beinahe-Autonomie vieler seiner Mitglieder zu verdanken.

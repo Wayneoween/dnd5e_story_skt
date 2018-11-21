@@ -1,8 +1,7 @@
 ---
 title: Lance Rock
+type: Artefakt
 ---
-
-#### Artefakt
 
 Ein riesiger Fels aus ungewöhnlichem Stein nahe {% include glossary_link.html title="Red Larch" %}. Ihm werden
 Ähnlichkeiten zum Monolithen in {% include glossary_link.html title="Nighstone" %} nachgesagt. Von oben sah er wie ein

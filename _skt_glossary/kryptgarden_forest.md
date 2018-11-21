@@ -1,7 +1,7 @@
 ---
 title: Kryptgarden-Wald
+type: Ort
 ---
-#### Ort  {{ site.icons_html.location }}
 
 Wald nordöstlich von {% include glossary_link.html title="Red Larch" %}. Verbirgt viele alte Zwergenruinen.
 

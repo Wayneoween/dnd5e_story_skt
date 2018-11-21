@@ -1,6 +1,6 @@
 ---
+type: Monster
 ---
-#### Person {{ site.icons_html.person }}
 
 <img src='/images/skt/beholder.jpg' class="auto" />
 

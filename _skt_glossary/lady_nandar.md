@@ -1,8 +1,8 @@
 ---
 title: Lady Nandar
+type: Person
+icon: person_dead
 ---
 
-#### Person {{ site.icons_html.person }}
-
-"High Stuart" von {% include glossary_link.html title="Nightstone" %}, beim
-Angriff der {% include glossary_link.html title="Wolkenstadt" %} verstorben.
+"High Stuart" von {% include glossary_link.html title="Nightstone" %}, beim Angriff der {% include glossary_link.html
+title="Wolkenstadt" %} verstorben.

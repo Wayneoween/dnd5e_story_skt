@@ -102,15 +102,3 @@ collections:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
-
-icons_html:
-  dragon: <i class="fas fa-dragon"></i>
-  faction: <i class="fas fa-certificate"></i>
-  giant: <i class="fas fa-monument"></i>
-  location: <i class="fas fa-home"></i>
-  monster: <i class="fas fa-pastafarianism"></i>
-  person_dead: <i class="fas fa-skull-crossbones"></i>
-  person_jailed: <i class="fas fa-user-alt fa-bars"></i>
-  person: <i class="fas fa-user-alt"></i>
-  tavern: <i class="fas fa-beer"></i>
-  tribe: <i class="fas fa-sitemap"></i>
