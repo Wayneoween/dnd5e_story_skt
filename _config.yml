@@ -95,6 +95,8 @@ liquid:
 collections:
   skt_glossary:
     output: false
+  skt_quests:
+    output: false
   skt_characters:
     output: true
     layout: 'page'
