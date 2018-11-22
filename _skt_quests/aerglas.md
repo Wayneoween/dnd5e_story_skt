@@ -1,5 +1,4 @@
 ---
-number: 9
 title: "Aerglas, Erwecker der Bäume"
 status: open
 reward: Unbekannt

@@ -1,8 +1,7 @@
 ---
-number: 10
 title: Überfall auf Amphail
-status: open
-reward: Unbekannt
+status: done
+reward: "Unbekannt. An Shieldmeet 1494 abzuholen."
 ---
 
 Drei Hügelriesen haben das Fest zu Tylanders Namenstag in {% include glossary_link.html

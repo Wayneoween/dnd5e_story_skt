@@ -1,8 +1,7 @@
 ---
-number: 4
 title: Angriff auf Neverwinter
 status: open
-reward: Unbekannt
+reward: none
 ---
 
 {% include glossary_link.html title="Xanathar's Gilde" %} befüchtet einen Angriff der Wolkenriesen

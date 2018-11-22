@@ -1,8 +1,7 @@
 ---
-number: 3
 title: "Traurige Nachrichten: Triboar"
 status: open
-reward: Unbekannt
+reward: none
 ---
 
 Wir sollen Alaestra Ulgar in {% include glossary_link.html title="Triboar" %} berichten,

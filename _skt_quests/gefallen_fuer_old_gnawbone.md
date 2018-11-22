@@ -1,8 +1,7 @@
 ---
-number: 15
 title: Ein Gefallen für Old Gnawbone
 status: open
-reward: Unbekannt
+reward: none
 ---
 
 {% include glossary_link.html title="Old Gnawbone" %} hat uns ein Artefakt gegeben, dass

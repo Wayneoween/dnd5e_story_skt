@@ -1,5 +1,4 @@
 ---
-number: 6
 title: Zi Liangs Erbe
 status: done
 reward: "Perl of Power + Potion of Heroism"

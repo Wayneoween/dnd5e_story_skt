@@ -1,8 +1,7 @@
 ---
-number: 2
 title: "Waterdeep: Die Rattenplage"
 status: done
-reward: "4x 200GP"
+reward: "800GP"
 ---
 
 Der Schwertcaptain von {% include glossary_link.html title="Waterdeep" %} beauftragt uns die Quelle

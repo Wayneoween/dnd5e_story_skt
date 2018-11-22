@@ -14,20 +14,31 @@ bodyclasses: questlog
 
 ## Offene Quests
 
-{% assign open_quests = site.skt_quests | where:"status","open" | sort: 'number' %}
+{% assign open_quests = site.skt_quests | where:"status","open" | sort %}
 {% for quest in open_quests %}
 #### {{ quest.title }}
 
 {{ quest.content }}
 
+{% if quest.reward != 'none' %}
+{% include icons/loot.html %} **Belohnung:** {{ quest.reward }}
+{% endif %}
+
 {% endfor %}
+
+---
+---
 
 ## Abgeschlossene Quests
 
-{% assign done_quests = site.skt_quests | where:"status","done" | sort: 'number' %}
+{% assign done_quests = site.skt_quests | where:"status","done" | sort %}
 {% for quest in done_quests %}
 #### {{ quest.title }}
 
 {{ quest.content }}
+
+{% if quest.reward != 'none' %}
+{% include icons/loot.html %} **Belohnung:** {{ quest.reward }}
+{% endif %}
 
 {% endfor %}

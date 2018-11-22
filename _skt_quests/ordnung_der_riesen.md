@@ -1,8 +1,7 @@
 ---
-number: 11
 title: Die Ordnung der Riesen
 status: open
-reward: Unbekannt
+reward: none
 ---
 
 {% include glossary_link.html title="Zephyros" %} berichtete, dass die einstige Ordnung der Riesen

@@ -1,8 +1,7 @@
 ---
-number: 14
 title: Old Gnawbone befragen
 status: done
-reward: Unbekannt
+reward: Informationen
 ---
 
 {% include glossary_link.html title="Old Gnawbone" %} glaubt, dass {% include glossary_link.html

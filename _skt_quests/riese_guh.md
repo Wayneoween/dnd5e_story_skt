@@ -1,8 +1,7 @@
 ---
-number: 8
-title: Der falsche Togrim
+title: Der Riese Guh
 status: open
-reward: Unbekannt
+reward: none
 ---
 
 Der Riese {% include glossary_link.html title="Guh" %} befehligt von {% include glossary_link.html

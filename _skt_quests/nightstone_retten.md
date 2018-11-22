@@ -1,8 +1,7 @@
 ---
-number: 1
 title: Rettet die Bewohner von Nightstone
 status: done
-reward: Test
+reward: none
 ---
 
 Die Bewohner von {% include glossary_link.html title="Nightstone" %} sind nach dem Angriff in eine

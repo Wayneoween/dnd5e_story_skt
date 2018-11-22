@@ -1,8 +1,7 @@
 ---
-number: 2
 title: "Traurige Nachrichten: Goldenfields"
 status: done
-reward: Test
+reward: none
 ---
 
 Wir haben Miros Xelbrin in {% include glossary_link.html title="Goldenfields" %} über den Tod seiner

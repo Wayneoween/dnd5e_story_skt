@@ -1,5 +1,4 @@
 ---
-number: 5
 title: Werbung in Goldenfields
 status: done
 reward: "7000GP Rabatt auf Waren"

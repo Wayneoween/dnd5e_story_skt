@@ -1,5 +1,4 @@
 ---
-number: 5
 title: Der Drache und sein Kraut
 status: open
 reward: Unbekannt
