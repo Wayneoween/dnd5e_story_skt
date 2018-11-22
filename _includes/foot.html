@@ -1,5 +1,6 @@
-<footer id="footer">
+<footer id="amazonlinks">
   <section class="split">
+    <center><strong>Regelbücher</strong></center>
     {% assign postCounter = 0 %}
     {% for link in site.data.amazonlinks %}
       {% if link.side == "left" %}
@@ -15,6 +16,7 @@
     {% endfor %}
   </section>
   <section class="split">
+    <center><strong>Abenteuer</strong></center>
     {% assign postCounter = 0 %}
     {% for link in site.data.amazonlinks %}
       {% if link.side == "right" %}

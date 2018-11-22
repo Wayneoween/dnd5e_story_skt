@@ -1,0 +1,70 @@
+#amazonlinks {
+  @include color(alt);
+  @include vendor('display', 'flex');
+  background-color: _palette(alt, bg);
+  color: _palette(fg-light);
+  cursor: default;
+  position: relative;
+  margin: 0 auto;
+  padding: 5px;
+  width: calc(100% - #{_size(padding) * 2});
+  max-width: _size(wrapper);
+  z-index: 2;
+
+  > section {
+    @include vendor('flex-basis', '50%');
+    @include vendor('flex-grow', '1');
+    @include vendor('flex-shrink', '1');
+    @include padding((_size(padding)), (_size(padding)));
+    border-left: solid 2px _palette(alt, border);
+
+    &:first-child {
+      border-left: 0;
+    }
+
+    &.split {
+      @include vendor('display', 'flex');
+      @include vendor('flex-direction', 'column');
+      padding: 0;
+
+      > section {
+        @include padding((_size(padding) * 2) - 1, (_size(padding) * 2));
+        border-top: solid 2px _palette(alt, border);
+
+        &:first-child {
+          @include padding((_size(padding) * 2) - 1, (_size(padding) * 2), (_size(padding), 0, 0, 0));
+          border-top: 0;
+        }
+
+        &:last-child {
+          @include padding((_size(padding) * 2) - 1, (_size(padding) * 2), (0, 0, _size(padding), 0));
+        }
+      }
+    }
+  }
+
+
+  @include breakpoint(small) {
+    > section {
+      @include padding((_size(padding) * 1), (_size(padding) * 1));
+
+      &.split {
+        > section {
+          @include padding((_size(padding) * 1), (_size(padding) * 1));
+
+          &:first-child {
+            @include padding((_size(padding) * 1), (_size(padding) * 1));
+          }
+
+          &:last-child {
+            @include padding((_size(padding) * 1), (_size(padding) * 1));
+          }
+        }
+      }
+    }
+  }
+
+  @include breakpoint(xsmall) {
+    width: 100%;
+  }
+}
