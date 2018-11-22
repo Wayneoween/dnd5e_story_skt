@@ -1,5 +1,5 @@
 ---
-title: Der Riese Guh
+title: "Riese: Guh"
 status: open
 reward: none
 ---

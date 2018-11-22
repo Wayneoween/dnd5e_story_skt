@@ -1,5 +1,5 @@
 ---
-title: Die Monolithen
+title: Mysteriöse Monolithen
 status: open
 reward: none
 ---

@@ -1,5 +1,5 @@
 ---
-title: Der Drache und sein Kraut
+title: Felgolos und sein Kraut
 status: open
 reward: Unbekannt
 ---

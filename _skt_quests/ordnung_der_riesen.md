@@ -1,5 +1,5 @@
 ---
-title: Die Ordnung der Riesen
+title: Ordnung der Riesen
 status: open
 reward: none
 ---

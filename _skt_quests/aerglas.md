@@ -1,5 +1,5 @@
 ---
-title: "Aerglas, Erwecker der Bäume"
+title: Aerglas, Erwecker der Bäume
 status: open
 reward: Unbekannt
 ---

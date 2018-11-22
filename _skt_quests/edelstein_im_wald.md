@@ -1,7 +1,7 @@
 ---
 title: Edelsteine im Kryptgarden-Wald
 status: open
-reward: "20PP pro Person"
+reward: "20 Platin pro Person"
 ---
 
 Der Edelstein-Händler {% include glossary_link.html title="Skaran" %} hat uns angeheuert Edelsteine

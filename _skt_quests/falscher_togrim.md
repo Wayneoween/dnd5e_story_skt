@@ -1,5 +1,5 @@
 ---
-title: Der falsche Togrim
+title: Falscher Togrim
 status: open
 reward: none
 ---
