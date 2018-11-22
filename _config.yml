@@ -50,15 +50,22 @@ sass:
 email:              msc+dndaux@cle.ar.it
 slack:              "Wir laden dich sehr gerne ein, melde dich einfach!"
 
-# Plugins
+# Default GitHub Plugins (cannot be disabled)
 plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+# Custom plugins
+  - jekyll-feed
   - jekyll-mentions
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-timeago
-  - jekyll-coffeescript
+  - jemoji
 
 paginate: 6
 paginate_path: "/blog/page:num/"
