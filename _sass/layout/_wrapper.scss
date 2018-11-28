@@ -20,10 +20,10 @@
 			height: 100%;
 			background-color:		_palette(wrapper-bg);
 			background-image:		url('../../images/overlay.jpg');
-			background-size:		100% auto;
-			background-position:	center;
-			background-repeat:		no-repeat;
-			background-attachment:	fixed;
+			background-size:		100% auto,							auto,														100% auto;
+			background-position:	center,								center,														top center;
+			background-repeat:		no-repeat,							no-repeat,													no-repeat;
+			background-attachment:	scroll,								scroll,														scroll;
 			z-index: -1;
 
 			&.fixed {
