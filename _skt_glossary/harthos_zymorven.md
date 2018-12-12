@@ -3,5 +3,5 @@ title: Harthos Zymorven
 type: Person
 ---
 
-Ritter, pensionierter Abenteuerer. Lebt in *Zymorven Hall*. Besitzt angeblich eine legendäre
-Waffe, den *Riesenschlächter*.
+Ritter, und pensionierter Abenteuerer. Lebt in {% include glossary_link.html title="Zymorven Hall"
+%}. Besitzt angeblich eine legendäre Waffe, den *Riesenschlächter*.
