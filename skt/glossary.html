@@ -6,9 +6,20 @@ bodyclasses: glossary
 ---
 
 <header>
-	<h2>Glossar zu Storm King's Thunder</h2>
+  <h2>Glossar zu Storm King's Thunder</h2>
 </header>
 <hr>
+
+<h3 class="index">Index</h3>
+
+<div id="index">
+  {% assign items = site.skt_glossary | sort: 'title' %}
+  <ul>
+    {% for item in items %}
+    <li><a href="#{{ item.title | downcase | url_encode }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 {% assign items = site.skt_glossary | sort: 'title' %}
 {% for item in items %}
