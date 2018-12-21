@@ -1,0 +1,15 @@
+#index {
+  > ul {
+    column-count: 3;
+    column-gap: 0;
+    font-size: 75%;
+
+    > li {
+      display: inline-block;
+    }
+
+    > li::first-letter {
+      font-weight: bold;
+    }
+  }
+}
