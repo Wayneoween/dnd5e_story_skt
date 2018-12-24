@@ -12,7 +12,23 @@ bodyclasses: questlog
 
 ----
 
-## Offene Quests
+## Hauptquests
+
+{% assign open_quests = site.skt_quests | where:"status","main" | sort %}
+{% for quest in open_quests %}
+#### {{ quest.title }}
+
+{{ quest.content }}
+
+{% if quest.reward != 'none' %}
+{% include icons/loot.html %} **Belohnung:** {{ quest.reward }}
+{% endif %}
+
+{% endfor %}
+
+---
+
+## Seitenquests
 
 {% assign open_quests = site.skt_quests | where:"status","open" | sort %}
 {% for quest in open_quests %}
@@ -26,7 +42,6 @@ bodyclasses: questlog
 
 {% endfor %}
 
----
 ---
 
 ## Abgeschlossene Quests
