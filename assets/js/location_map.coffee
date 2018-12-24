@@ -115,6 +115,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		'Shadowtop Cathedral': {x: 59.38, y: 43.79},
 		#'Shining White': {x: 45.63, y: 25.22},
 		'Silverymoon': {x: 62.19, y: 28.17},
+		'Starmetal Hills': {x: 37.5, y: 35},
 		'Stone Bridge': {x: 45.23, y: 56.46},
 		#'Stone Stand': {x: 70, y: 34.44},
 		'Sundabar': {x: 72.03, y: 27.06},
