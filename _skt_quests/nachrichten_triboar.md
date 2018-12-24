@@ -1,6 +1,6 @@
 ---
 title: "Traurige Nachrichten: Triboar"
-status: open
+status: done
 reward: none
 ---
 
