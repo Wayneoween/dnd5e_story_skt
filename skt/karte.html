@@ -5,7 +5,7 @@ sitemap:
     priority: 1
     lastmod: 2018-03-01
     changefreq: weekly
-current_location: 'Starmetal Hills'
+current_location: "Helm's Hold"
 ---
 <!DOCTYPE HTML>
 <!--
@@ -22,7 +22,7 @@ current_location: 'Starmetal Hills'
 
       <section class="post">
         <h4>Aktuelle Position: {% include glossary_link.html title=page.current_location %}</h4>
-        <div class='location-map' up-data='"{{page.current_location}}"'></div>
+        <div class='location-map' up-data="{{page.current_location | jsonify | escape}}"></div>
         <h4>Bereits besuchte Orte</h4>
 
         <ul>

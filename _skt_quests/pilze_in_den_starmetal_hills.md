@@ -1,6 +1,6 @@
 ---
 title: "Pilze in den Starmetal Hills"
-status: open
+status: done
 reward: Buch über Kräuterkunde
 ---
 
@@ -9,3 +9,5 @@ eine gewisse Menge eines besonderen Pilzes besorgen.
 
 Der Pilz wächst in der Nähe von Gräbern von Steinriesen, die irgendwo in den {% include
 glossary_link.html title="Starmetal Hills" %} zu finden sind.
+
+Wir haben die Pilze abgegeben und das Buch erhalten.
