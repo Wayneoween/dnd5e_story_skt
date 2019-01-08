@@ -2,7 +2,7 @@
 type: Gott
 ---
 
-Gott der Formorianer. Böse. Wird als riesige, groteske Gestalt dargestellt.
+Gottheit der Riesen. Böse. Wird als riesiger Fomorianer (eine Art entstellter Riese) dargestellt.
 
-*Weevil Forkbeard* hat versucht ihn wiederzubeleben, um gegen die Riesen zu kämpfen.
+*Weevil Forkbeard* hat versucht ihn wiederzubeleben, um gegen die anderen Riesen zu kämpfen.
 Wurde von den Abenteurern verhindert.
