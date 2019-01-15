@@ -15,8 +15,7 @@ Lilleni ist ein Waisenkind, und kommt ursprünglich aus dem Hochwald.
 
 Sie wird jederzeit begleitet von „Rama“, einem schwarzen Panther,
 
-Lilleni rettete Rama aus den Klauen von „Schattenhunden“. Ramas Mutter überlebte
-nicht.
+Lilleni rettete Rama aus den Klauen von „Schattenhunden“. Ramas Mutter überlebte nicht.
 
-Als sie nach {% include glossary_link.html title="Nightstone" %} kommt, war sie
-auf dem Weg zum Meer.
+Als sie nach {% include glossary_link.html title="Nightstone" %} kommt, war sie auf dem Weg zum
+Meer.
