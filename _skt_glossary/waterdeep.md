@@ -22,7 +22,7 @@ Taverne: Golden Tiger
 
 ##### Dock Ward
 
-Stützpunkt der {% include glossary_link.html title="Xanathar's Gilde" %}.
+Stützpunkt der {% include glossary_link.html title="Xanathars Gilde" %}.
 
 Ground Zero der Rattenplage und dem Kampf zwischen der {% include glossary_link.html
 title="Rattenkönigin" %} und der {% include glossary_link.html title="Lady der Plagen" %}. Von den

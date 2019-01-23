@@ -1,5 +1,5 @@
 ---
-title: Xanathar's Gilde
+title: Xanathars Gilde
 type: Diebesgilde
 icon: fraktion
 ---
