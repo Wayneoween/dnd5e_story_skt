@@ -19,3 +19,34 @@
 <link rel="stylesheet" href="{{ "/assets/css/location_map.css" | absolute_url }}" />
 <!-- Todo: Create a SASS manifest -->
 <noscript><link rel="stylesheet" href="{{ "/assets/css/noscript.css" | absolute_url }}" /></noscript>
+
+<meta content="{{ site.title | escape }}" property="og:site_name">
+{% if page.title %}
+<meta content="{{ page.title }}" property="og:title">
+{% else %}
+<meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.title %}
+<meta content="article" property="og:type">
+{% else %}
+<meta content="website" property="og:type">
+{% endif %}
+{% if post.excerpt %}
+<meta content="{{ post.excerpt }}" property="og:description">
+{% else %}
+<meta content="{{ page.description }}" property="og:description">
+{% else %}
+<meta content="{{ site.description }}" property="og:description">
+{% endif %}
+{% if page.url %}
+<meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.date %}
+<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+<meta content="{{ site.url }}/about/" property="article:author">
+{% endif %}
+{% if page.image %}
+<meta content="{{ site.url }}/assets/img/posts{{ page.image }}" property="og:image">
+{% else %}
+<meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image">
+{% endif %}
