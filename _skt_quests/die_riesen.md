@@ -26,3 +26,10 @@ Wir besuchen den Drachen {% include glossary_link.html title="Old Gnawbone" %}. 
 include glossary_link.html title="Harshnag" %} ein Verbündeter im Kampf gegen die Riesen sein
 könnte. Mit seiner Hilfe sollen wir den Weg zum weit im Norden liegenden Tempel {% include
 glossary_link.html title="Auge des Allvaters" %} im *Khedrun-Tal* finden können.
+
+---
+
+Wir besuchen die {% include glossary_link.html title="Olthana" %} in ihrer Wolkenstadt
+über {% include glossary_link.html title="Neverwinter" %} und können einen Konflikt abwenden.
+*Olthana* will zum *Maelstrom* zurückkehren, wo eine Versammlung der Sturmriesen stattfindet. Sie
+hat Angst, dass ihre Schwester *Sansuri* Krieg gegen die Menschen führen will.
