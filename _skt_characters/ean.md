@@ -22,5 +22,5 @@ Offenbar hat er sich als Paladin irgendwie mit den Paladinen in Helm's Hold übe
 
 ---
 
-Ean hat als Kind zwei wichtige Sturmriesen (Prinzessin *Sarisa* und Königin *Neri*) kennen. Er
-freundete sich mit Sarisa an, bis Sarisas Vater seinen Tochter verboten hat, Ean weiter zu treffen.
+Ean hat als Kind zwei wichtige Sturmriesen (Prinzessin *Sarissa* und Königin *Neri*) kennen. Er
+freundete sich mit Sarissa an, bis Sarissas Vater seinen Tochter verboten hat, Ean weiter zu treffen.
