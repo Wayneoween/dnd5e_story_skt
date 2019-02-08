@@ -4,3 +4,9 @@
 @import "custom/character_image";
 @import "custom/image";
 @import "custom/index";
+
+.center-justified {
+  text-align: center;
+  -moz-text-align-last: center;
+  text-align-last: center;
+}
