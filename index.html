@@ -55,7 +55,7 @@ changefreq: weekly
           <a href="{{ post.url | absolute_url }}" class="image featured">
             <img data-src="{{ post.image | absolute_url }}" alt="" class="lazyload" />
           </a>
-          <p>{{ post.excerpt }}</p>
+          <p class="center-justified">{{ post.excerpt }}</p>
           <ul class="actions">
             <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
             {% if post.homebrewerylink %}
