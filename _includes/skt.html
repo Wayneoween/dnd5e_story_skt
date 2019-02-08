@@ -5,7 +5,7 @@
       <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
     </header>
     <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-    <p>{{ post.excerpt }}</p>
+    <p class="center-justified">{{ post.excerpt }}</p>
     <ul class="actions">
       <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
       {% if post.homebrewerylink %}

@@ -15,12 +15,18 @@ Kommt aus {% include glossary_link.html title="Laklan" %}, nördlich von Neverwi
 als Sohn eines Müllers. Als die Mühle der Familie eines Tages aus unbekannten Gründen niederbrannte,
 verließ er seine ursprüngliche Heimat.
 
-Momentan arbeitet Ean als Söldner für den Duke, dem er nach {% include glossary_link.html
-title="Nightstone" %} gefolgt ist.
+Momentan arbeitet Ean als Söldner für den {% include character_link.html title="Duke" %}, dem er
+nach {% include glossary_link.html title="Nightstone" %} gefolgt ist.
 
-Offenbar hat er sich als Paladin irgendwie mit den Paladinen in Helm's Hold überworfen.
+Nach Goldenfields hat Duke Ean wegen seiner heldenhaften Taten offiziell aus seinen Diensten
+entlassen und als Freund gewonnen.
+
+Offenbar hat er sich als Paladin irgendwie mit den Paladinen in {% include glossary_link.html
+title="Helm's Hold" %} überworfen.
 
 ---
 
-Ean hat als Kind zwei wichtige Sturmriesen (Prinzessin *Sarissa* und Königin *Neri*) kennen. Er
-freundete sich mit Sarissa an, bis Sarissas Vater seinen Tochter verboten hat, Ean weiter zu treffen.
+Ean hat als Kind zwei wichtige Sturmriesen (Prinzessin {% include glossary_link.html title="Serissa"
+%} und Königin {% include glossary_link.html title="Neri" %}) kennen. Er freundete sich mit Serissa
+an, bis Sarissas Vater - König {% include glossary_link.html title="Hekaton" %} - seiner Tochter
+verboten hat, Ean weiter zu treffen.
