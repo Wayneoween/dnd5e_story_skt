@@ -33,3 +33,8 @@ Wir besuchen die {% include glossary_link.html title="Olthana" %} in ihrer Wolke
 über {% include glossary_link.html title="Neverwinter" %} und können einen Konflikt abwenden.
 *Olthana* will zum *Maelstrom* zurückkehren, wo eine Versammlung der Sturmriesen stattfindet. Sie
 hat Angst, dass ihre Schwester *Sansuri* Krieg gegen die Menschen führen will.
+
+---
+
+Wir treffen Harshnag und reisen mit ihm in Richtung {% include glossary_link.html title="Auge des
+Allvaters" %}.
