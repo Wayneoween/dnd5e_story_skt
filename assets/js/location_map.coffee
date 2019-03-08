@@ -69,7 +69,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		'Deadsnows': {x: 79.38, y: 21.53},
 		#'Deadstone Cleft': {x: 78.83, y: 63.96},
 		'Everlund': {x: 63.05, y: 32.96},
-		#'Eye of the All-Father': {x: 42.73, y: 6.27},
+		'Auge des Allvaters': {x: 42.73, y: 6.27},
 		'Fireshear': {x: 14.22, y: 19.8},
 		#'Flint Rock': {x: 49.14, y: 38.38},
 		'Gauntlgrym': {x: 29.06, y: 30.63},
