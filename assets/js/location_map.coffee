@@ -1,15 +1,15 @@
 ---
 ---
 up.compiler '.location-map', ($map, currentLocation) ->
-	
+
 	ZOOMFACTOR = 2.5
 	isZoomed = false
-	
+
 	initialize = ->
 		initializeDom()
 		initializeHandlers()
 
-	initializeDom = -> 
+	initializeDom = ->
 		@$wrapper = $("<div class='location-map--image-wrapper'></div>")
 		@$mapImage = $('<img src="/images/karte/faerun_north.jpg" class="location-map--image">')
 			.load ->
@@ -19,7 +19,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		$wrapper.append($marker)
 		$map.append($wrapper)
 
-	initializeHandlers = -> 
+	initializeHandlers = ->
 		$wrapper.on('dblclick dbltap', toggleZoom)
 		$(window).resize(addMarkerToCurrentLocation)
 
@@ -27,7 +27,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		# by just clicking on it. Usefull for adding new locations.
 		# $mapImage.on('click', showLocationCoordinates)
 
-	toggleZoom = (e) -> 
+	toggleZoom = (e) ->
 		isZoomed = !isZoomed
 		if isZoomed
 			$wrapper.on('click tap', navigateOnMap)
@@ -50,7 +50,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 	mapBoundryOffset = (maxLength, offset) ->
 		zoomedBoxLength = maxLength / ZOOMFACTOR
 		leftBorder = 0
-		rightBorder = maxLength - zoomedBoxLength 
+		rightBorder = maxLength - zoomedBoxLength
 		zoomedOffset = offset - zoomedBoxLength / 2
 		- Math.min(Math.max(zoomedOffset, leftBorder), rightBorder)
 
@@ -82,7 +82,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		'Helm\'s Hold': {x: 26.72, y: 40.84},
 		'Hundelstone': {x: 16.09, y: 13.16},
 		'Ironmaster': {x: 13.83, y: 10.7},
-		#'Ironslag': {x: 76.88, y: 9.47},
+		'Ironslag': {x: 76.88, y: 9.47},
 		#'Iymrith\'s Lair': {x: 90.86, y: 21.89},
 		'Julkoun': {x: 51.33, y: 85.61},
 		'Kheldell': {x: 36.72, y: 63.84},
@@ -162,7 +162,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 
 	initialize()
 
-	# Ideas: 
+	# Ideas:
 	# walking days
 	# riding days
 	# flight time
