@@ -1,6 +1,6 @@
 ---
 title: Iymrith
-type: "Chromatischer Drache: Blau"
+type: "Chromatischer Drache; Uralt: Blau"
 icon: drache
 ---
 
