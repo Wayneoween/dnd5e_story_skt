@@ -38,3 +38,9 @@ ihre Schwester *Sansuri* Krieg gegen die Menschen führen will.
 
 Wir treffen {% include glossary_link.html title="Harshnag" %} und reisen mit ihm in Richtung {%
 include glossary_link.html title="Auge des Allvaters" %}.
+
+---
+
+Am {% include glossary_link.html title="Auge des Allvaters" %} erfahren wir, dass wir die Ordnung
+wiederherstellen können, wenn wir das Böse an {% include glossary_link.html title="Hekatons
+Hof" %} besiegen. Um dort hinzukommen, brauchen wir zwei magische Muscheln.
