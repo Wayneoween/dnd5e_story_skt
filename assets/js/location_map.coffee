@@ -90,6 +90,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		'Llorkh': {x: 76.02, y: 74.54},
 		'Longsaddle': {x: 38.98, y: 31.73},
 		'Loudwater': {x: 66.25, y: 73.43},
+		'Lurkwood': {x: 37.38, y: 20.62},
 		'Luskan': {x: 23.13, y: 24.35},
 		'Mines of Mirabar': {x: 32.89, y: 12.67},
 		'Mirabar': {x: 34.38, y: 15.62},

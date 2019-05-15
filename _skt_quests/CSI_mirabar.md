@@ -1,6 +1,6 @@
 ---
 title: CSI Mirabar
-status: open
+status: done
 reward: none
 ---
 
@@ -10,3 +10,6 @@ obdachlosen Kindern und anderen Einwohnern. Die Stadtwache ist ratlos.
 Ein erster Hinweis ist, dass Laquart offenbar den Kindern helfen wollte, die wohl in einem
 Waisenhaus nahe des Friedhofs lebten. Angeblich seien die Kinder da aber in Wahrheit zu Dieben
 erzogen worden.
+
+Wir finden die Vermissten in einem Höhle hinter einer Krypta. Sie waren von Gedankenschindern
+entführt worden.
