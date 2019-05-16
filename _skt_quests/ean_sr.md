@@ -1,6 +1,7 @@
 ---
 title: Ean Sr., Wiedergänger
 status: open
+reward: Unbekannt
 ---
 
 Eans Vater ist, nachdem er in Gefangenschaft der Paladine von {% include glossary_link.html
