@@ -28,7 +28,7 @@
       padding: 0;
 
       > section {
-        @include padding((_size(padding) * 2) - 1, (_size(padding) * 2));
+        padding: 1rem 3rem 1rem 5rem;
         border-top: solid 2px _palette(alt, border);
 
         &:first-child {
@@ -36,8 +36,8 @@
           border-top: 0;
         }
 
-        &:last-child {
-          @include padding((_size(padding) * 2) - 1, (_size(padding) * 2), (0, 0, _size(padding), 0));
+        &:not(:first-child) {
+          font-size: 80%;
         }
       }
     }

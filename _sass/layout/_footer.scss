@@ -181,9 +181,8 @@
 	}
 
 	#copyright {
-		@include color-typography(invert);
 		position: relative;
-		color: transparentize(_palette(invert, fg), 0.75);
+		color: rgba(66, 66, 66, 0.25);
 		cursor: default;
 		font-family: _font(family-heading);
 		font-size: 0.8rem;
