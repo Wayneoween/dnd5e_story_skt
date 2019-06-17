@@ -10,3 +10,14 @@
   -moz-text-align-last: center;
   text-align-last: center;
 }
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.box div {
+  font-size: 130%;
+}

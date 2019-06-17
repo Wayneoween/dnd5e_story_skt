@@ -62,7 +62,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-titles-from-headings
 # Custom plugins
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-mentions
   - jekyll-sitemap
   - jemoji
