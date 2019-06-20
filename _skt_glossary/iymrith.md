@@ -4,7 +4,7 @@ type: "Chromatischer Drache; Uralt: Blau"
 icon: drache
 ---
 
-<img src='/images/skt/blue_dragon.jpg' style="max-width: 500px" />
+<img src='/images/skt/blue_dragon.jpg' class="auto" />
 
 War interessiert am Thron der Riesen und der Königsfamilie.
 
