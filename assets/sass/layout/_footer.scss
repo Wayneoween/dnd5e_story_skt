@@ -227,6 +227,11 @@
 		}
 
 		@include breakpoint(xsmall) {
+			margin: 0 auto;
+			border-top: 0;
+			padding: 1.5rem;
+			color: rgba(66, 66, 66, 0.55);
+
 			ul {
 				li {
 					border-left: 0;

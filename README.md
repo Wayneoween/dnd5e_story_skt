@@ -16,7 +16,7 @@ comments on that page and you can mail me or join our Slack!
 * Install rbenv + ruby 2.5.1
 * Run `bundle`
 * Open a terminal and run
-  * `b jekyll server --watch --livereload`
+  * `bundle exec jekyll server --watch --livereload`
 * Open the local version in your Browser: http://127.0.0.1:4000/
 * Whenever you make a content change, it will automatically be built, served locally and reload your
   tab.
