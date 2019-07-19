@@ -1,6 +1,6 @@
 ---
 title: CSI Yartar
-status: open
+status: done
 ---
 
 Wir sollen in Yartar das Verschwinden dreier Adelssöhne aufklären, und ein Amulett (ein
