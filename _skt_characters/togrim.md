@@ -2,6 +2,7 @@
 title: "Togrim 'Mad Togrim' Turco"
 date: 2018-03-03T08:00:00+01:00
 image: "/images/charakter/togrim.jpg"
+charsheet: "https://ddb.ac/characters/2237605/IcQGxD"
 tags: [ "Charakter"]
 ---
 

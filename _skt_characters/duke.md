@@ -2,6 +2,7 @@
 title: "Duke III von Brightwood"
 date: 2018-03-28T08:00:00+01:00
 image: "/images/charakter/duke.jpg"
+charsheet: "https://ddb.ac/characters/2235718/eS4iMK"
 tags: [ "Charakter"]
 ---
 

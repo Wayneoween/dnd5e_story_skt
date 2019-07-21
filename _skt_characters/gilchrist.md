@@ -2,6 +2,7 @@
 title: "Gilchrist"
 date: 2018-03-04T08:00:00+01:00
 image: "/images/charakter/gilchrist.jpg"
+charsheet: "https://ddb.ac/characters/2277553/0D8aUR"
 tags: [ "Charakter"]
 ---
 
