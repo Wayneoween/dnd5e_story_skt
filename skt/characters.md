@@ -8,4 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 
+<img class="charactercover" src='/images/group.jpg'/>
+
 ## Die Hauptrollen
