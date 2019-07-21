@@ -8,6 +8,9 @@
     <p>{{ post.excerpt }}</p>
     <ul class="actions">
       <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
+      {% if post.charsheet %}
+      <li><a href="{{ post.charsheet }}" class="button">Charakterbogen</a></li>
+      {% endif %}
     </ul>
   </article>
 {% endfor %}
