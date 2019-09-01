@@ -16,3 +16,4 @@ Die meisten Riesen denen wir begegnet sind haben Runen tätowiert. Von {% includ
 haben wir ein Pergament mit vielen solcher Runen erhalten, kennen aber nicht all ihre Bedeutungen:
 
 <img src='/images/skt/giant-runes.jpg' class="auto -x800" />
+

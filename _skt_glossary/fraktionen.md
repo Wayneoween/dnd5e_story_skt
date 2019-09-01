@@ -11,3 +11,4 @@ Einige davon sind:
   - {% include glossary_link.html title="Zhentarim" %}
 
 Einige dieser Gruppen versuchen versteckt zu agieren, sind aber über die vielen Jahre ihrer Existenz zu einem schlecht gehüteten Geheimnis geworden. Normale Bürger interessieren sich üblicherweise jedoch nur wenig für die Interessen oder die Existenz dieser Fraktionen.
+

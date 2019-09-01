@@ -29,6 +29,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
+    front_matter_parser (0.2.1)
     gemoji (3.0.0)
     geordi (1.10.0)
       thor (>= 0.18.0)
@@ -250,10 +251,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  front_matter_parser
   geordi
   github-pages
   jekyll-coffeescript
   therubyracer
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
