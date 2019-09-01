@@ -40,7 +40,7 @@ all_glossary_items = Dir.glob('_skt_glossary/*.md').map do |item_fname|
   GlossaryItem.new(item_fname)
 end
 
-puts "[DEBUG] DONE reading glossary items" if DEBUG
+puts '[DEBUG] DONE reading glossary items' if DEBUG
 
 markdown_fname = ARGV.first
 markdown_file = FrontMatterParser::Parser.parse_file(markdown_fname)
@@ -50,11 +50,12 @@ all_glossary_items.each do |glossary_term|
   count = 0
 
   # We must only replace full words that are not enclosed in quotes
-  markdown_file.content.gsub!(/\b(?!<")#{glossary_term.title}(?!")\b/) { |m| count +=1; m.replace("{% include glossary_link.html title=\"#{glossary_term.title}\" %}")}
+  markdown_file.content.gsub!(/(?!<{%.*?)\b#{glossary_term.title}\b(?!.*?%})/) { |m| count +=1; m.replace("{% include glossary_link.html title=\"#{glossary_term.title}\" %}")}
+  markdown_file.content.gsub!(/(?!<{%.*?)\b#{glossary_term.slug}\b(?!.*?%})/) { |m| count +=1; m.replace("{% include glossary_link.html title=\"#{glossary_term.slug}\" name=\"#{glossary_term.title}\" %}")}
 
-  markdown_file.content.gsub!(/\b(?!<")#{glossary_term.slug}(?!")\b/) { |m| count +=1; m.replace("{% include glossary_link.html title=\"#{glossary_term.slug}\" name=\"#{glossary_term.title}\" %}")}
-
-  puts "[DEBUG] ... #{count} times!"
+  if DEBUG
+    puts "[DEBUG] ... #{count} times!" unless count.zero?
+  end
 end
 
 File.open(markdown_fname, 'w') do |output_file|
