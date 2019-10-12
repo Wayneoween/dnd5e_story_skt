@@ -113,6 +113,7 @@ up.compiler '.location-map', ($map, currentLocation) ->
 		'Red Larch': {x: 40.47, y: 60.76},
 		'Rivermoot': {x: 53.28, y: 24.23},
 		'Secomber': {x: 56.02, y: 81.43},
+		'Senteq\'s Hut': {x: 72, y: 41.79},
 		'Shadowtop Cathedral': {x: 59.38, y: 43.79},
 		#'Shining White': {x: 45.63, y: 25.22},
 		'Silverymoon': {x: 62.19, y: 28.17},
