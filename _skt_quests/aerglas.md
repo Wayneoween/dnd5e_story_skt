@@ -1,7 +1,7 @@
 ---
 title: Aerglas, Erwecker der Bäume
 status: done
-reward: Unbekannt
+reward: Einige Spruchrollen, Heiltränke, und ein paar magischer elfischer Schuhe.
 ---
 
 {% include glossary_link.html title="Lifferlas" %}, der wandelnde Baum von {% include
