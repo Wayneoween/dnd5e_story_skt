@@ -1,6 +1,6 @@
 ---
 title: Aerglas, Erwecker der Bäume
-status: closed
+status: done
 reward: Unbekannt
 ---
 
