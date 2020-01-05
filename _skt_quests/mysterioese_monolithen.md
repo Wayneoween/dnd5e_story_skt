@@ -13,3 +13,5 @@ beschützen.
 
 In {% include glossary_link.html title="Red Larch" %} befindet sich ein weiterer Monolith, ähnlich
 wie in Nightstone.
+
+Der Monolith ist auf dem Wolkenriesenschloss von Gräfin Sansuri.

@@ -1,7 +1,7 @@
 ---
 title: Harpers – Nachforschungen in Everlund
-status: open
-reward: unklar
+status: done
+reward: Zugang zum Teleportationsnetz der Harpers
 ---
 
 {% include glossary_link.html title="Darathra Shendrel" %} in {% include glossary_link.html

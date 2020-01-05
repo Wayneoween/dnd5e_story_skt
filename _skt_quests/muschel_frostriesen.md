@@ -1,9 +1,9 @@
 ---
-title: Die Muschel der Frostriesen
-status: main
+title: Die Muschel der Wolkenriesen
+status: done
 reward: magische Muschel
 ---
 
-Die Frostriesen besitzen eine der magischen Muscheln die wir benötigen.
+Die Wolkenriesen besitzen eine der magischen Muscheln die wir benötigen.
 
-Sie befinden sich am Meer des wandelnden Eises, weit im Nordwesten.
+Sie befinden sich irgendo über dem Evermoor.
