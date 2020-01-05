@@ -49,3 +49,7 @@ Hof" %} besiegen. Um dort hinzukommen, brauchen wir zwei magische Muscheln.
 
 Wir haben den Feuerriesen von {% include glossary_link.html title="Ironslag" %} erfolgreich
 eine der magischen Muscheln abgenommen.
+
+---
+
+Wir haben auch den Wolkenriesen eine der magischen Muscheln abgenommen und haben nun genug um zum Maelstrom zu gelangen.
