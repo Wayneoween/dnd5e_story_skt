@@ -4,14 +4,14 @@ status: main
 reward: none
 ---
 
-Wir beobachten Angriffe der Riesen auf viele Städte in Faerûn, unter anderem in {% include
+Wir beobachten Angriffe der {% include glossary_link.html title="Riesen" %} auf viele Städte in Faerûn, unter anderem in {% include
 glossary_link.html title="Nighstone" %}, {% include glossary_link.html title="Goldenfields" %}, {%
 include glossary_link.html title="Amphail" %} und {% include glossary_link.html title="Triboar" %}.
 
 ---
 
 Wir treffen auf {% include glossary_link.html title="Zephyros" %}, der uns berichtet, dass die
-einstige Ordnung der Riesen durcheinander gekommen ist, und jetzt alle Riesen um ihren Platz und die
+einstige Ordnung der {% include glossary_link.html title="Riesen" %} durcheinander gekommen ist, und jetzt alle {% include glossary_link.html title="Riesen" %} um ihren Platz und die
 Gunst des Allvaters zu kämpfen.
 
 Die ursprüngliche Ordnung war
@@ -23,16 +23,16 @@ Verantwortlich sei eine ihm unbekannte "Entität".
 ---
 
 Wir besuchen den Drachen {% include glossary_link.html title="Old Gnawbone" %}. Sie glaubt, dass {%
-include glossary_link.html title="Harshnag" %} ein Verbündeter im Kampf gegen die Riesen sein
+include glossary_link.html title="Harshnag" %} ein Verbündeter im Kampf gegen die {% include glossary_link.html title="Riesen" %} sein
 könnte. Mit seiner Hilfe sollen wir den Weg zum weit im Norden liegenden Tempel {% include
 glossary_link.html title="Auge des Allvaters" %} im *Khedrun-Tal* finden können.
 
 ---
 
-Wir besuchen die {% include glossary_link.html title="Olthana" %} in ihrer Wolkenstadt über {%
-include glossary_link.html title="Neverwinter" %} und können einen Konflikt abwenden. *Olthana* will
+Wir besuchen die {% include glossary_link.html title="Olthana" %} in ihrer {% include glossary_link.html title="Wolkenstadt" %} über {%
+include glossary_link.html title="Neverwinter" %} und können einen Konflikt abwenden. *{% include glossary_link.html title="Olthana" %}* will
 zum *Maelstrom* zurückkehren, wo eine Versammlung der Sturmriesen stattfindet. Sie hat Angst, dass
-ihre Schwester *Sansuri* Krieg gegen die Menschen führen will.
+ihre Schwester *{% include glossary_link.html title="Sansuri" %}* Krieg gegen die Menschen führen will.
 
 ---
 
