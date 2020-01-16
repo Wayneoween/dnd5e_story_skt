@@ -8,8 +8,7 @@ Männlicher Sturmriese.
 
 Hohes Tier in der Hierarchie der Riesen.
 
-Vater von {% include glossary_link.html title="Serissa" %} und der Mann von {% include
-glossary_link.html title="Hekaton" %}.
+Vater von {% include glossary_link.html title="Serissa" %} und der Mann von {% include glossary_link.html title="Hekaton" %}.
 
 {% include character_link.html title="Ean" %} ist ihm einmal kurz begenet, als er noch ein Kind war.
 
@@ -19,5 +18,5 @@ glossary_link.html title="Hekaton" %}.
 
 Hekaton hat nach dem Mord seiner Frau den Maelstrom verlassen, und wurde nicht mehr gesehen.
 
-Crowen hat ihn aber aufspüren können: Er wird von der {% include glossary_link.html
-title="Gesellschaft des Kraken" %} gefangengehalten.
+Krowen hat ihn aber aufspüren können: Er wird von der {% include glossary_link.html title="Gesellschaft des Kraken" %}
+gefangengehalten.
