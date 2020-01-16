@@ -53,3 +53,15 @@ eine der magischen Muscheln abgenommen.
 ---
 
 Wir haben auch den Wolkenriesen eine der magischen Muscheln abgenommen und haben nun genug um zum Maelstrom zu gelangen.
+
+---
+
+Der Maelstrom wurde von {% include glossary_link.html title="Iymrith" %} unterwandert, die die
+Riesen gegen die „kleinen Völker“ aufgestachelt hat. Wir konnten sie enttarnen und vertreiben.
+
+König {% include glossary_link.html title="Hekaton" %} ist verschollen, aber wir konnten mit Hilfe
+von {% include glossary_link.html title="Crowen" %} herausfinden, dass er von der {% include
+glossary_link.html title="Gesellschaft des Kraken" %} auf einem Schiff gefangen gehalten wird.
+
+Außerdem wurde Hekatons Frau getötet. Bei ihrer Leiche hat man eine Münze mit dem Symbol einer
+goldenen Gans gefunden, so wie sie auf der *Grand Dame* in Yartar verwendet wird.
