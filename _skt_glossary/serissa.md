@@ -13,3 +13,8 @@ title="Neri" %}.
 der Riesen gelernt.
 
 <div style="clear: both"></div>
+
+---
+
+Wurde nach dem Tod ihrer Mutter und dem Verschwinden ihres Vaters {% include glossary_link.html
+title="Hekaton" %} zur Königin der Sturmriesen.
