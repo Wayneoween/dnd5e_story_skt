@@ -64,5 +64,8 @@ von {% include glossary_link.html title="Krowen" %} herausfinden, dass er von de
 glossary_link.html title="Gesellschaft des Kraken" %} auf einem Schiff gefangen gehalten wird.
 
 Außerdem wurde Hekatons Frau getötet. Bei ihrer Leiche hat man eine Münze mit dem Symbol einer
-goldenen Gans gefunden, so wie sie auf der *Grand Dame* in Yartar verwendet wird.
+goldenen Gans gefunden, so wie sie auf der *Grande Dame* in Yartar verwendet wird.
 
+---
+
+Wir befreien Hekaton aus den Fängen des Kults des Kraken. Er kehrt zum Maelstrom zurück.
