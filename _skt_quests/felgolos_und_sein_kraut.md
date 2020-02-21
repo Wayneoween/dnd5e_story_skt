@@ -1,6 +1,6 @@
 ---
 title: Felgolos und sein Kraut
-status: open
+status: done
 reward: Unbekannt
 ---
 
@@ -10,3 +10,12 @@ title="Zhentarim" %} Söldner unterstützt haben. Ein paar junger Drachen haben 
 geklaut, und wir sollen ihm helfen es zurück zu bekommen.
 
 Wir haben in in Jalanthar nicht angetroffen, er sei wohl schon vor Monaten verschwunden.
+
+Wie befreien Felgolos Wochen später aus dem Schloss der Wolkenriesen. Er hilft uns die zweite
+Muschel zu erlangen und bei unserem Kampf gegen die Kultisten in den Red Rocks.
+
+Wir versprechen ihm, dafür sein Kraut wiederzuerlangen, was in Besitz zweier blauer Drachen in den
+Ruinen von *Ascore* ist.
+
+Beim Kampf gegen die beiden sterben wir fast, schaffen es aber dann doch noch sie in die Flucht
+zu treiben und das Pfeifenkraut wiederzubekommen.
