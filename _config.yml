@@ -5,7 +5,7 @@ bio:                'Eine Gruppe von Fremden, die in den Forgotten Realms nach A
 description:        "Eine Gruppe von Fremden, die in den Forgotten Realms nach Antworten auf ungefragte Fragen suchen."
 locale:             de_DE
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dndaux.de" # the base hostname & protocol for your site
+url: "https://skt.dndaux.de" # the base hostname & protocol for your site
 timezone: "Europe/Berlin"
 encoding: "utf-8"
 
