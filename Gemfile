@@ -5,4 +5,4 @@ gem 'geordi'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-coffeescript'
 gem 'webrick'
-gem 'yajl-ruby', '1.4.2'
+gem 'yajl-ruby', '1.4.3'
